@@ -1,15 +1,16 @@
 # MiMo detailed run artifacts — 2026-05-29
 
-Updated: 2026-05-29 12:30:01
+Updated: 2026-05-29 13:00:01
 
-- Run artifacts today: 460
-- GitHub learning samples: 4377
+- Run artifacts today: 461
+- GitHub learning samples: 4399
 - Strategy: profit actions first; learning summaries are kept for direction discovery but full details live in GitHub, not Obsidian.
 - Profit offer: https://1993921.xyz/mimo-ai-delivery-factory/offers/lead-cleaning-whatsapp/
 - Public dashboard: https://1993921.xyz/mimo-ai-delivery-factory/dashboard/
 
 ## Latest run artifacts
 
+- `20260529-123001-profit-only-actions.md` → [runs/2026-05-29/20260529-123001-profit-only-actions.md](2026-05-29/20260529-123001-profit-only-actions.md)
 - `20260529-122701-wechat-money-signals.md` → [runs/2026-05-29/20260529-122701-wechat-money-signals.md](2026-05-29/20260529-122701-wechat-money-signals.md)
 - `20260529-121302-growth-summary.md` → [runs/2026-05-29/20260529-121302-growth-summary.md](2026-05-29/20260529-121302-growth-summary.md)
 - `20260529-121302-growth-landing-batch.md` → [runs/2026-05-29/20260529-121302-growth-landing-batch.md](2026-05-29/20260529-121302-growth-landing-batch.md)
@@ -59,33 +60,29 @@ Updated: 2026-05-29 12:30:01
 - `20260529-092002-growth-landing-batch.md` → [runs/2026-05-29/20260529-092002-growth-landing-batch.md](2026-05-29/20260529-092002-growth-landing-batch.md)
 - `20260529-092002-growth-idea-batch.md` → [runs/2026-05-29/20260529-092002-growth-idea-batch.md](2026-05-29/20260529-092002-growth-idea-batch.md)
 - `20260529-092002-growth-market-radar.md` → [runs/2026-05-29/20260529-092002-growth-market-radar.md](2026-05-29/20260529-092002-growth-market-radar.md)
-- `20260529-091002-growth-learning-notes.md` → [runs/2026-05-29/20260529-091002-growth-learning-notes.md](2026-05-29/20260529-091002-growth-learning-notes.md)
 
 ## Latest discovery files
 
-- `20260529-071015-github-learning-batch.md` → [discovery/2026-05-29/20260529-071015-github-learning-batch.md](../discovery/2026-05-29/20260529-071015-github-learning-batch.md)
-- `20260529-071701-active-outreach-issues.jsonl` → [discovery/2026-05-29/20260529-071701-active-outreach-issues.jsonl](../discovery/2026-05-29/20260529-071701-active-outreach-issues.jsonl)
-- `20260529-071701-active-outreach-queue.md` → [discovery/2026-05-29/20260529-071701-active-outreach-queue.md](../discovery/2026-05-29/20260529-071701-active-outreach-queue.md)
+- `20260529-072005-github-repos.json` → [discovery/2026-05-29/20260529-072005-github-repos.json](../discovery/2026-05-29/20260529-072005-github-repos.json)
 - `20260529-072014-github-learning-batch.md` → [discovery/2026-05-29/20260529-072014-github-learning-batch.md](../discovery/2026-05-29/20260529-072014-github-learning-batch.md)
 - `20260529-072005-github-repos.md` → [discovery/2026-05-29/20260529-072005-github-repos.md](../discovery/2026-05-29/20260529-072005-github-repos.md)
-- `20260529-072005-github-repos.json` → [discovery/2026-05-29/20260529-072005-github-repos.json](../discovery/2026-05-29/20260529-072005-github-repos.json)
 - `20260529-073006-github-repos.json` → [discovery/2026-05-29/20260529-073006-github-repos.json](../discovery/2026-05-29/20260529-073006-github-repos.json)
-- `20260529-073006-github-repos.md` → [discovery/2026-05-29/20260529-073006-github-repos.md](../discovery/2026-05-29/20260529-073006-github-repos.md)
 - `20260529-073015-github-learning-batch.md` → [discovery/2026-05-29/20260529-073015-github-learning-batch.md](../discovery/2026-05-29/20260529-073015-github-learning-batch.md)
-- `20260529-074004-github-repos.json` → [discovery/2026-05-29/20260529-074004-github-repos.json](../discovery/2026-05-29/20260529-074004-github-repos.json)
+- `20260529-073006-github-repos.md` → [discovery/2026-05-29/20260529-073006-github-repos.md](../discovery/2026-05-29/20260529-073006-github-repos.md)
 - `20260529-074004-github-repos.md` → [discovery/2026-05-29/20260529-074004-github-repos.md](../discovery/2026-05-29/20260529-074004-github-repos.md)
-- `20260529-074013-github-learning-batch.md` → [discovery/2026-05-29/20260529-074013-github-learning-batch.md](../discovery/2026-05-29/20260529-074013-github-learning-batch.md)
+- `20260529-074004-github-repos.json` → [discovery/2026-05-29/20260529-074004-github-repos.json](../discovery/2026-05-29/20260529-074004-github-repos.json)
 - `20260529-075005-github-repos.json` → [discovery/2026-05-29/20260529-075005-github-repos.json](../discovery/2026-05-29/20260529-075005-github-repos.json)
+- `20260529-074013-github-learning-batch.md` → [discovery/2026-05-29/20260529-074013-github-learning-batch.md](../discovery/2026-05-29/20260529-074013-github-learning-batch.md)
 - `20260529-075005-github-repos.md` → [discovery/2026-05-29/20260529-075005-github-repos.md](../discovery/2026-05-29/20260529-075005-github-repos.md)
 - `20260529-075014-github-learning-batch.md` → [discovery/2026-05-29/20260529-075014-github-learning-batch.md](../discovery/2026-05-29/20260529-075014-github-learning-batch.md)
+- `20260529-080007-github-repos.md` → [discovery/2026-05-29/20260529-080007-github-repos.md](../discovery/2026-05-29/20260529-080007-github-repos.md)
 - `20260529-080007-github-repos.json` → [discovery/2026-05-29/20260529-080007-github-repos.json](../discovery/2026-05-29/20260529-080007-github-repos.json)
 - `20260529-080016-github-learning-batch.md` → [discovery/2026-05-29/20260529-080016-github-learning-batch.md](../discovery/2026-05-29/20260529-080016-github-learning-batch.md)
-- `20260529-080007-github-repos.md` → [discovery/2026-05-29/20260529-080007-github-repos.md](../discovery/2026-05-29/20260529-080007-github-repos.md)
 - `20260529-080701-opportunity-corpus.jsonl` → [discovery/2026-05-29/20260529-080701-opportunity-corpus.jsonl](../discovery/2026-05-29/20260529-080701-opportunity-corpus.jsonl)
-- `20260529-080701-ai-money-opportunity-radar.md` → [discovery/2026-05-29/20260529-080701-ai-money-opportunity-radar.md](../discovery/2026-05-29/20260529-080701-ai-money-opportunity-radar.md)
-- `20260529-081006-github-repos.md` → [discovery/2026-05-29/20260529-081006-github-repos.md](../discovery/2026-05-29/20260529-081006-github-repos.md)
 - `20260529-081006-github-repos.json` → [discovery/2026-05-29/20260529-081006-github-repos.json](../discovery/2026-05-29/20260529-081006-github-repos.json)
+- `20260529-080701-ai-money-opportunity-radar.md` → [discovery/2026-05-29/20260529-080701-ai-money-opportunity-radar.md](../discovery/2026-05-29/20260529-080701-ai-money-opportunity-radar.md)
 - `20260529-081015-github-learning-batch.md` → [discovery/2026-05-29/20260529-081015-github-learning-batch.md](../discovery/2026-05-29/20260529-081015-github-learning-batch.md)
+- `20260529-081006-github-repos.md` → [discovery/2026-05-29/20260529-081006-github-repos.md](../discovery/2026-05-29/20260529-081006-github-repos.md)
 - `20260529-081701-active-outreach-issues.jsonl` → [discovery/2026-05-29/20260529-081701-active-outreach-issues.jsonl](../discovery/2026-05-29/20260529-081701-active-outreach-issues.jsonl)
 - `20260529-081701-active-outreach-queue.md` → [discovery/2026-05-29/20260529-081701-active-outreach-queue.md](../discovery/2026-05-29/20260529-081701-active-outreach-queue.md)
 - `20260529-082005-github-repos.md` → [discovery/2026-05-29/20260529-082005-github-repos.md](../discovery/2026-05-29/20260529-082005-github-repos.md)
@@ -93,3 +90,6 @@ Updated: 2026-05-29 12:30:01
 - `20260529-082015-github-learning-batch.md` → [discovery/2026-05-29/20260529-082015-github-learning-batch.md](../discovery/2026-05-29/20260529-082015-github-learning-batch.md)
 - `20260529-083005-github-repos.md` → [discovery/2026-05-29/20260529-083005-github-repos.md](../discovery/2026-05-29/20260529-083005-github-repos.md)
 - `20260529-083005-github-repos.json` → [discovery/2026-05-29/20260529-083005-github-repos.json](../discovery/2026-05-29/20260529-083005-github-repos.json)
+- `20260529-083014-github-learning-batch.md` → [discovery/2026-05-29/20260529-083014-github-learning-batch.md](../discovery/2026-05-29/20260529-083014-github-learning-batch.md)
+- `20260529-084004-github-repos.md` → [discovery/2026-05-29/20260529-084004-github-repos.md](../discovery/2026-05-29/20260529-084004-github-repos.md)
+- `20260529-084013-github-learning-batch.md` → [discovery/2026-05-29/20260529-084013-github-learning-batch.md](../discovery/2026-05-29/20260529-084013-github-learning-batch.md)
