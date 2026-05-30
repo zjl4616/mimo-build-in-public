@@ -1,15 +1,20 @@
 # MiMo detailed run artifacts — 2026-05-30
 
-Updated: 2026-05-30 08:00:01
+Updated: 2026-05-30 08:30:01
 
-- Run artifacts today: 16
-- GitHub learning samples: 5489
+- Run artifacts today: 21
+- GitHub learning samples: 5522
 - Strategy: profit actions first; learning summaries are kept for direction discovery but full details live in GitHub, not Obsidian.
 - Profit offer: https://1993921.xyz/mimo-ai-delivery-factory/offers/lead-cleaning-whatsapp/
 - Public dashboard: https://1993921.xyz/mimo-ai-delivery-factory/dashboard/
 
 ## Latest run artifacts
 
+- `20260530-081301-growth-landing-batch.md` → [runs/2026-05-30/20260530-081301-growth-landing-batch.md](2026-05-30/20260530-081301-growth-landing-batch.md)
+- `20260530-081301-growth-summary.md` → [runs/2026-05-30/20260530-081301-growth-summary.md](2026-05-30/20260530-081301-growth-summary.md)
+- `20260530-081301-growth-idea-batch.md` → [runs/2026-05-30/20260530-081301-growth-idea-batch.md](2026-05-30/20260530-081301-growth-idea-batch.md)
+- `20260530-081301-growth-market-radar.md` → [runs/2026-05-30/20260530-081301-growth-market-radar.md](2026-05-30/20260530-081301-growth-market-radar.md)
+- `20260530-080001-profit-only-actions.md` → [runs/2026-05-30/20260530-080001-profit-only-actions.md](2026-05-30/20260530-080001-profit-only-actions.md)
 - `20260530-073002-profit-only-actions.md` → [runs/2026-05-30/20260530-073002-profit-only-actions.md](2026-05-30/20260530-073002-profit-only-actions.md)
 - `20260530-070001-profit-only-actions.md` → [runs/2026-05-30/20260530-070001-profit-only-actions.md](2026-05-30/20260530-070001-profit-only-actions.md)
 - `20260530-063002-profit-only-actions.md` → [runs/2026-05-30/20260530-063002-profit-only-actions.md](2026-05-30/20260530-063002-profit-only-actions.md)
@@ -55,11 +60,6 @@ Updated: 2026-05-30 08:00:01
 - `20260529-211014-profit-only-actions.md` (server only / previous day)
 - `20260529-210838-profit-only-actions.md` (server only / previous day)
 - `20260529-210702-profit-only-actions.md` (server only / previous day)
-- `20260529-210002-profit-only-actions.md` (server only / previous day)
-- `20260529-202701-wechat-money-signals.md` (server only / previous day)
-- `20260529-203001-profit-only-actions.md` (server only / previous day)
-- `20260529-201302-growth-summary.md` (server only / previous day)
-- `20260529-201302-growth-landing-batch.md` (server only / previous day)
 
 ## Latest discovery files
 
