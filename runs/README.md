@@ -1,15 +1,16 @@
 # MiMo detailed run artifacts — 2026-05-31
 
-Updated: 2026-05-31 02:00:01
+Updated: 2026-05-31 02:30:02
 
-- Run artifacts today: 4
-- GitHub learning samples: 6768
+- Run artifacts today: 5
+- GitHub learning samples: 6810
 - Strategy: profit actions first; learning summaries are kept for direction discovery but full details live in GitHub, not Obsidian.
 - Profit offer: https://1993921.xyz/mimo-ai-delivery-factory/offers/lead-cleaning-whatsapp/
 - Public dashboard: https://1993921.xyz/mimo-ai-delivery-factory/dashboard/
 
 ## Latest run artifacts
 
+- `20260531-020001-profit-only-actions.md` → [runs/2026-05-31/20260531-020001-profit-only-actions.md](2026-05-31/20260531-020001-profit-only-actions.md)
 - `20260531-013002-profit-only-actions.md` → [runs/2026-05-31/20260531-013002-profit-only-actions.md](2026-05-31/20260531-013002-profit-only-actions.md)
 - `20260531-010001-profit-only-actions.md` → [runs/2026-05-31/20260531-010001-profit-only-actions.md](2026-05-31/20260531-010001-profit-only-actions.md)
 - `20260531-003001-profit-only-actions.md` → [runs/2026-05-31/20260531-003001-profit-only-actions.md](2026-05-31/20260531-003001-profit-only-actions.md)
@@ -59,7 +60,6 @@ Updated: 2026-05-31 02:00:01
 - `20260530-191301-growth-summary.md` (server only / previous day)
 - `20260530-191301-growth-landing-batch.md` (server only / previous day)
 - `20260530-191301-growth-idea-batch.md` (server only / previous day)
-- `20260530-191301-growth-market-radar.md` (server only / previous day)
 
 ## Latest discovery files
 
@@ -70,10 +70,14 @@ Updated: 2026-05-31 02:00:01
 - `20260531-003001-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-003001-profit-prospects.jsonl](../discovery/2026-05-31/20260531-003001-profit-prospects.jsonl)
 - `20260531-003001-profit-prospects.csv` → [discovery/2026-05-31/20260531-003001-profit-prospects.csv](../discovery/2026-05-31/20260531-003001-profit-prospects.csv)
 - `20260531-004013-github-learning-batch.md` → [discovery/2026-05-31/20260531-004013-github-learning-batch.md](../discovery/2026-05-31/20260531-004013-github-learning-batch.md)
-- `20260531-010001-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-010001-profit-prospects.jsonl](../discovery/2026-05-31/20260531-010001-profit-prospects.jsonl)
 - `20260531-010001-profit-prospects.csv` → [discovery/2026-05-31/20260531-010001-profit-prospects.csv](../discovery/2026-05-31/20260531-010001-profit-prospects.csv)
+- `20260531-010001-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-010001-profit-prospects.jsonl](../discovery/2026-05-31/20260531-010001-profit-prospects.jsonl)
 - `20260531-010014-github-learning-batch.md` → [discovery/2026-05-31/20260531-010014-github-learning-batch.md](../discovery/2026-05-31/20260531-010014-github-learning-batch.md)
 - `20260531-012013-github-learning-batch.md` → [discovery/2026-05-31/20260531-012013-github-learning-batch.md](../discovery/2026-05-31/20260531-012013-github-learning-batch.md)
 - `20260531-013002-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-013002-profit-prospects.jsonl](../discovery/2026-05-31/20260531-013002-profit-prospects.jsonl)
 - `20260531-013002-profit-prospects.csv` → [discovery/2026-05-31/20260531-013002-profit-prospects.csv](../discovery/2026-05-31/20260531-013002-profit-prospects.csv)
 - `20260531-014013-github-learning-batch.md` → [discovery/2026-05-31/20260531-014013-github-learning-batch.md](../discovery/2026-05-31/20260531-014013-github-learning-batch.md)
+- `20260531-020001-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-020001-profit-prospects.jsonl](../discovery/2026-05-31/20260531-020001-profit-prospects.jsonl)
+- `20260531-020001-profit-prospects.csv` → [discovery/2026-05-31/20260531-020001-profit-prospects.csv](../discovery/2026-05-31/20260531-020001-profit-prospects.csv)
+- `20260531-020015-github-learning-batch.md` → [discovery/2026-05-31/20260531-020015-github-learning-batch.md](../discovery/2026-05-31/20260531-020015-github-learning-batch.md)
+- `20260531-022013-github-learning-batch.md` → [discovery/2026-05-31/20260531-022013-github-learning-batch.md](../discovery/2026-05-31/20260531-022013-github-learning-batch.md)
