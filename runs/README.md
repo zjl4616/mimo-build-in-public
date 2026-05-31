@@ -1,15 +1,17 @@
 # MiMo detailed run artifacts — 2026-05-31
 
-Updated: 2026-05-31 21:30:01
+Updated: 2026-05-31 22:00:02
 
-- Run artifacts today: 150
-- GitHub learning samples: 7787
+- Run artifacts today: 152
+- GitHub learning samples: 7813
 - Strategy: profit actions first; learning summaries are kept for direction discovery but full details live in GitHub, not Obsidian.
 - Profit offer: https://1993921.xyz/mimo-ai-delivery-factory/offers/lead-cleaning-whatsapp/
 - Public dashboard: https://1993921.xyz/mimo-ai-delivery-factory/dashboard/
 
 ## Latest run artifacts
 
+- `20260531-212701-wechat-money-signals.md` → [runs/2026-05-31/20260531-212701-wechat-money-signals.md](2026-05-31/20260531-212701-wechat-money-signals.md)
+- `20260531-213001-profit-only-actions.md` → [runs/2026-05-31/20260531-213001-profit-only-actions.md](2026-05-31/20260531-213001-profit-only-actions.md)
 - `20260531-211302-growth-summary.md` → [runs/2026-05-31/20260531-211302-growth-summary.md](2026-05-31/20260531-211302-growth-summary.md)
 - `20260531-211302-growth-landing-batch.md` → [runs/2026-05-31/20260531-211302-growth-landing-batch.md](2026-05-31/20260531-211302-growth-landing-batch.md)
 - `20260531-211302-growth-idea-batch.md` → [runs/2026-05-31/20260531-211302-growth-idea-batch.md](2026-05-31/20260531-211302-growth-idea-batch.md)
@@ -58,38 +60,36 @@ Updated: 2026-05-31 21:30:01
 - `20260531-170701-profit-only-actions.md` → [runs/2026-05-31/20260531-170701-profit-only-actions.md](2026-05-31/20260531-170701-profit-only-actions.md)
 - `20260531-170002-profit-only-actions.md` → [runs/2026-05-31/20260531-170002-profit-only-actions.md](2026-05-31/20260531-170002-profit-only-actions.md)
 - `20260531-162701-wechat-money-signals.md` → [runs/2026-05-31/20260531-162701-wechat-money-signals.md](2026-05-31/20260531-162701-wechat-money-signals.md)
-- `20260531-163001-profit-only-actions.md` → [runs/2026-05-31/20260531-163001-profit-only-actions.md](2026-05-31/20260531-163001-profit-only-actions.md)
-- `20260531-161301-growth-summary.md` → [runs/2026-05-31/20260531-161301-growth-summary.md](2026-05-31/20260531-161301-growth-summary.md)
 
 ## Latest discovery files
 
-- `20260531-162013-github-learning-batch.md` → [discovery/2026-05-31/20260531-162013-github-learning-batch.md](../discovery/2026-05-31/20260531-162013-github-learning-batch.md)
-- `20260531-163001-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-163001-profit-prospects.jsonl](../discovery/2026-05-31/20260531-163001-profit-prospects.jsonl)
-- `20260531-162701-wechat-money-signals.jsonl` → [discovery/2026-05-31/20260531-162701-wechat-money-signals.jsonl](../discovery/2026-05-31/20260531-162701-wechat-money-signals.jsonl)
-- `20260531-163001-profit-prospects.csv` → [discovery/2026-05-31/20260531-163001-profit-prospects.csv](../discovery/2026-05-31/20260531-163001-profit-prospects.csv)
 - `20260531-164013-github-learning-batch.md` → [discovery/2026-05-31/20260531-164013-github-learning-batch.md](../discovery/2026-05-31/20260531-164013-github-learning-batch.md)
-- `20260531-170002-profit-prospects.csv` → [discovery/2026-05-31/20260531-170002-profit-prospects.csv](../discovery/2026-05-31/20260531-170002-profit-prospects.csv)
 - `20260531-170002-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-170002-profit-prospects.jsonl](../discovery/2026-05-31/20260531-170002-profit-prospects.jsonl)
+- `20260531-170002-profit-prospects.csv` → [discovery/2026-05-31/20260531-170002-profit-prospects.csv](../discovery/2026-05-31/20260531-170002-profit-prospects.csv)
 - `20260531-170015-github-learning-batch.md` → [discovery/2026-05-31/20260531-170015-github-learning-batch.md](../discovery/2026-05-31/20260531-170015-github-learning-batch.md)
 - `20260531-170701-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-170701-profit-prospects.jsonl](../discovery/2026-05-31/20260531-170701-profit-prospects.jsonl)
 - `20260531-170701-profit-prospects.csv` → [discovery/2026-05-31/20260531-170701-profit-prospects.csv](../discovery/2026-05-31/20260531-170701-profit-prospects.csv)
 - `20260531-170837-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-170837-profit-prospects.jsonl](../discovery/2026-05-31/20260531-170837-profit-prospects.jsonl)
-- `20260531-170837-profit-prospects.csv` → [discovery/2026-05-31/20260531-170837-profit-prospects.csv](../discovery/2026-05-31/20260531-170837-profit-prospects.csv)
 - `20260531-171013-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-171013-profit-prospects.jsonl](../discovery/2026-05-31/20260531-171013-profit-prospects.jsonl)
+- `20260531-170837-profit-prospects.csv` → [discovery/2026-05-31/20260531-170837-profit-prospects.csv](../discovery/2026-05-31/20260531-170837-profit-prospects.csv)
 - `20260531-171013-profit-prospects.csv` → [discovery/2026-05-31/20260531-171013-profit-prospects.csv](../discovery/2026-05-31/20260531-171013-profit-prospects.csv)
 - `20260531-171304-github-repos.md` → [discovery/2026-05-31/20260531-171304-github-repos.md](../discovery/2026-05-31/20260531-171304-github-repos.md)
 - `20260531-171304-github-repos.json` → [discovery/2026-05-31/20260531-171304-github-repos.json](../discovery/2026-05-31/20260531-171304-github-repos.json)
 - `20260531-172013-github-learning-batch.md` → [discovery/2026-05-31/20260531-172013-github-learning-batch.md](../discovery/2026-05-31/20260531-172013-github-learning-batch.md)
 - `20260531-173001-profit-prospects.csv` → [discovery/2026-05-31/20260531-173001-profit-prospects.csv](../discovery/2026-05-31/20260531-173001-profit-prospects.csv)
 - `20260531-173001-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-173001-profit-prospects.jsonl](../discovery/2026-05-31/20260531-173001-profit-prospects.jsonl)
-- `20260531-172701-wechat-money-signals.jsonl` → [discovery/2026-05-31/20260531-172701-wechat-money-signals.jsonl](../discovery/2026-05-31/20260531-172701-wechat-money-signals.jsonl)
 - `20260531-174013-github-learning-batch.md` → [discovery/2026-05-31/20260531-174013-github-learning-batch.md](../discovery/2026-05-31/20260531-174013-github-learning-batch.md)
+- `20260531-172701-wechat-money-signals.jsonl` → [discovery/2026-05-31/20260531-172701-wechat-money-signals.jsonl](../discovery/2026-05-31/20260531-172701-wechat-money-signals.jsonl)
 - `20260531-180001-profit-prospects.csv` → [discovery/2026-05-31/20260531-180001-profit-prospects.csv](../discovery/2026-05-31/20260531-180001-profit-prospects.csv)
 - `20260531-180001-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-180001-profit-prospects.jsonl](../discovery/2026-05-31/20260531-180001-profit-prospects.jsonl)
-- `20260531-180702-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-180702-profit-prospects.jsonl](../discovery/2026-05-31/20260531-180702-profit-prospects.jsonl)
 - `20260531-180014-github-learning-batch.md` → [discovery/2026-05-31/20260531-180014-github-learning-batch.md](../discovery/2026-05-31/20260531-180014-github-learning-batch.md)
 - `20260531-180702-profit-prospects.csv` → [discovery/2026-05-31/20260531-180702-profit-prospects.csv](../discovery/2026-05-31/20260531-180702-profit-prospects.csv)
+- `20260531-180702-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-180702-profit-prospects.jsonl](../discovery/2026-05-31/20260531-180702-profit-prospects.jsonl)
 - `20260531-180838-profit-prospects.csv` → [discovery/2026-05-31/20260531-180838-profit-prospects.csv](../discovery/2026-05-31/20260531-180838-profit-prospects.csv)
 - `20260531-180838-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-180838-profit-prospects.jsonl](../discovery/2026-05-31/20260531-180838-profit-prospects.jsonl)
 - `20260531-181014-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-181014-profit-prospects.jsonl](../discovery/2026-05-31/20260531-181014-profit-prospects.jsonl)
 - `20260531-181014-profit-prospects.csv` → [discovery/2026-05-31/20260531-181014-profit-prospects.csv](../discovery/2026-05-31/20260531-181014-profit-prospects.csv)
+- `20260531-181305-github-repos.json` → [discovery/2026-05-31/20260531-181305-github-repos.json](../discovery/2026-05-31/20260531-181305-github-repos.json)
+- `20260531-181305-github-repos.md` → [discovery/2026-05-31/20260531-181305-github-repos.md](../discovery/2026-05-31/20260531-181305-github-repos.md)
+- `20260531-182013-github-learning-batch.md` → [discovery/2026-05-31/20260531-182013-github-learning-batch.md](../discovery/2026-05-31/20260531-182013-github-learning-batch.md)
+- `20260531-183002-profit-prospects.jsonl` → [discovery/2026-05-31/20260531-183002-profit-prospects.jsonl](../discovery/2026-05-31/20260531-183002-profit-prospects.jsonl)
