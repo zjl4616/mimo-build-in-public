@@ -1,15 +1,16 @@
 # MiMo detailed run artifacts — 2026-06-02
 
-Updated: 2026-06-02 07:30:02
+Updated: 2026-06-02 08:00:02
 
-- Run artifacts today: 15
-- GitHub learning samples: 10014
+- Run artifacts today: 16
+- GitHub learning samples: 10027
 - Strategy: profit actions first; learning summaries are kept for direction discovery but full details live in GitHub, not Obsidian.
 - Profit offer: https://1993921.xyz/mimo-ai-delivery-factory/offers/lead-cleaning-whatsapp/
 - Public dashboard: https://1993921.xyz/mimo-ai-delivery-factory/dashboard/
 
 ## Latest run artifacts
 
+- `20260602-073002-profit-only-actions.md` → [runs/2026-06-02/20260602-073002-profit-only-actions.md](2026-06-02/20260602-073002-profit-only-actions.md)
 - `20260602-070002-profit-only-actions.md` → [runs/2026-06-02/20260602-070002-profit-only-actions.md](2026-06-02/20260602-070002-profit-only-actions.md)
 - `20260602-063002-profit-only-actions.md` → [runs/2026-06-02/20260602-063002-profit-only-actions.md](2026-06-02/20260602-063002-profit-only-actions.md)
 - `20260602-060001-profit-only-actions.md` → [runs/2026-06-02/20260602-060001-profit-only-actions.md](2026-06-02/20260602-060001-profit-only-actions.md)
@@ -59,7 +60,6 @@ Updated: 2026-06-02 07:30:02
 - `20260601-203001-profit-only-actions.md` (server only / previous day)
 - `20260601-201302-growth-summary.md` (server only / previous day)
 - `20260601-201302-growth-landing-batch.md` (server only / previous day)
-- `20260601-201302-growth-idea-batch.md` (server only / previous day)
 
 ## Latest discovery files
 
