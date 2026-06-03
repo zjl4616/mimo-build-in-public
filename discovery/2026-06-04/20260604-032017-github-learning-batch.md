@@ -1,0 +1,408 @@
+# GitHub Learning Batch 20260604-032017
+
+- corpus: `/home/ubuntu/mimo-token-to-cash/discovery/github-learning-corpus.jsonl`
+- total learned metadata: 12294
+- new this run: 9
+
+## 最新项目样本（用于提炼需求/服务/触达）
+
+1. **martinjokub/infinity-mcp-server** ★0 `TypeScript`
+   - MCP server for StartInfinity API access by agents
+   - https://github.com/martinjokub/infinity-mcp-server
+   - query: mcp server
+2. **pailloM/mcpo-docker** ★0 `Dockerfile`
+   - docker to setup MCP servers
+   - https://github.com/pailloM/mcpo-docker
+   - query: mcp server
+3. **ninavolu/image-mcp-server** ★0 `HTML`
+   - Image tool for claude to find accurate quality images when needed for content. 
+   - https://github.com/ninavolu/image-mcp-server
+   - query: mcp server
+4. **ebongard/renfield-mcp-dlna** ★0 `Python`
+   - MCP server for DLNA media renderer control with gapless queue playback
+   - https://github.com/ebongard/renfield-mcp-dlna
+   - query: mcp server
+5. **cloudflare/mcp** ★492 `TypeScript`
+   - MCP server for the Cloudflare API
+   - https://github.com/cloudflare/mcp
+   - query: mcp server
+6. **edmiand/open5gs-mcp** ★0 `Python`
+   - Open5GS MCP Server
+   - https://github.com/edmiand/open5gs-mcp
+   - query: mcp server
+7. **punneshettysalila/ADVANCED_RAG_CHATBOT** ★0 `Python`
+   - 
+   - https://github.com/punneshettysalila/ADVANCED_RAG_CHATBOT
+   - query: rag chatbot
+8. **Het415/listinglens** ★1 `TypeScript`
+   - AI-powered Amazon seller intelligence platform — BERT sentiment, XGBoost return risk prediction, and RAG chatbot grounded in real customer reviews.
+   - https://github.com/Het415/listinglens
+   - query: rag chatbot
+9. **tinyfish-io/agentql-integrations** ★27 `Jupyter Notebook`
+   - AgentQL's integrations with workflow automation tools and AI agent frameworks let you extract structured data from web pages using queries or natural language and interact with the web with Playwright. Resilient, fast, a
+   - https://github.com/tinyfish-io/agentql-integrations
+   - query: zapier
+10. **skylence-be/binary-skyline** ★0 `Rust`
+   - Content-hash-guarded line editor: CLI + MCP server (read/edit/create/delete)
+   - https://github.com/skylence-be/binary-skyline
+   - query: mcp server
+11. **Noumenon-ai/nexus-core** ★0 `Python`
+   - Self-hostable multi-MCP personal-assistant framework: multi-provider LLM orchestration, an agentic tool loop, an approval-gated safety model, conversational recovery, and 10 MCP servers. MIT.
+   - https://github.com/Noumenon-ai/nexus-core
+   - query: mcp server
+12. **snyk/agent-scan** ★2520 `Python`
+   - Security scanner for AI agents, MCP servers and agent skills.
+   - https://github.com/snyk/agent-scan
+   - query: mcp server
+13. **ErikThiart/simcloud-codex-plugin** ★0 ``
+   - SIMcloud Codex plugin for the live SIMcloud MCP server and API workflows
+   - https://github.com/ErikThiart/simcloud-codex-plugin
+   - query: mcp server
+14. **777Timo/nodebook-backend** ★0 `Swift`
+   - HomeLab Doku System – Swift/Vapor Backend Projektplanung, Materialverwaltung, Einkaufsliste, Dokumentation MCP-Server)
+   - https://github.com/777Timo/nodebook-backend
+   - query: mcp server
+15. **rnd-pro/agent-pool-mcp** ★4 `JavaScript`
+   - MCP server for multi-agent task delegation, CLI orchestration, and Agent Portal routing.
+   - https://github.com/rnd-pro/agent-pool-mcp
+   - query: mcp server
+16. **krishgokul92/UnrealAI-MCP** ★0 `C++`
+   - AI-powered Unreal Engine 5.5+ editor plugin + Python MCP server. Lets Claude, GitHub Copilot, and other AI clients inspect, build, and modify UE5 content programmatically via Blueprint graphs, materials, actors, and more
+   - https://github.com/krishgokul92/UnrealAI-MCP
+   - query: mcp server
+17. **marselsel/revolut-business-mcp** ★0 `TypeScript`
+   - Open-source, self-hostable MCP server for the Revolut Business API — connect Claude to your business banking. Sandbox-ready, no paid plan needed. Built with Skybridge + TypeScript.
+   - https://github.com/marselsel/revolut-business-mcp
+   - query: mcp server
+18. **colelevy08/portmint** ★0 `Python`
+   - Production-grade MCP servers, minted for every tool in your stack.
+   - https://github.com/colelevy08/portmint
+   - query: mcp server
+19. **malkreide/swiss_electricity_mcp** ★0 `Python`
+   - MCP server for Swiss electricity data: BFE Energiedashboard, ElCom tariffs, OGD consumption. No-auth, 12 tools.
+   - https://github.com/malkreide/swiss_electricity_mcp
+   - query: mcp server
+20. **m3252/ai-switch** ★0 `JavaScript`
+   - Migrate your project's agent setup — instructions, MCP servers, and skills — between Claude Code and Codex, safely and reversibly.
+   - https://github.com/m3252/ai-switch
+   - query: mcp server
+21. **bigirimanainnocent12/burundi_rag_chatbot** ★0 `Python`
+   - 
+   - https://github.com/bigirimanainnocent12/burundi_rag_chatbot
+   - query: rag chatbot
+22. **devinW19/ai-ticketing-system** ★0 ``
+   - A lightweight MERN-based ITIL workflow app with an integrated RAG chatbot for smarter, self-service IT support.
+   - https://github.com/devinW19/ai-ticketing-system
+   - query: rag chatbot
+23. **Arnab-Pachal1234/DocuMind** ★0 `Python`
+   - This is a context aware rag chatbot
+   - https://github.com/Arnab-Pachal1234/DocuMind
+   - query: rag chatbot
+24. **kssudeep/AI-Healthcare-Assistant-Platform** ★0 `Jupyter Notebook`
+   - Full-stack AI Healthcare Platform | Disease Risk Prediction · Medical Image Classification · RAG Chatbot · FastAPI · PyTorch · OpenCV · SQL
+   - https://github.com/kssudeep/AI-Healthcare-Assistant-Platform
+   - query: rag chatbot
+25. **abhinavrdy18/Ollama-RAG-Assistant** ★0 `Python`
+   - A locally hosted RAG chatbot built with Ollama, LangChain, ChromaDB, GPT4All, and Chainlit. Enables secure, context-aware document search and AI-powered question answering from custom knowledge bases.
+   - https://github.com/abhinavrdy18/Ollama-RAG-Assistant
+   - query: rag chatbot
+26. **RAMAPRIYAM268/AI-POWERED-EMAIL-AUTOMATION-WORKFLOW** ★0 ``
+   - AI-powered email automation workflow using n8n, Google Sheets, and AI to generate personalized email content and automate end-to-end email delivery.
+   - https://github.com/RAMAPRIYAM268/AI-POWERED-EMAIL-AUTOMATION-WORKFLOW
+   - query: email automation
+27. **yusufberatbozkurt8/invoice-automation-service** ★0 ``
+   - 
+   - https://github.com/yusufberatbozkurt8/invoice-automation-service
+   - query: invoice automation
+28. **mastepanoski/claude-skills** ★37 `JavaScript`
+   - UX/UI evaluation, AI governance, and AI security skills for AI coding assistants. Audit interfaces with Nielsen heuristics, WCAG, Don Norman principles. Assess AI risk with NIST AI RMF, ISO 42001, OWASP LLM Top 10, and O
+   - https://github.com/mastepanoski/claude-skills
+   - query: ai security
+29. **n08976/ai-protect** ★0 `Python`
+   - AI security scanning pipeline (SAST/DAST adapters, intel feeds, manifest-gated orchestration)
+   - https://github.com/n08976/ai-protect
+   - query: ai security
+30. **bhagya777/Agentic_Multimodal_Rag_Chatbot** ★1 `Python`
+   - 
+   - https://github.com/bhagya777/Agentic_Multimodal_Rag_Chatbot
+   - query: rag chatbot
+31. **saurav-singh-web/creator-lens** ★0 `Python`
+   - Full-stack RAG chatbot for video analysis. LangGraph + Qdrant + Groq.
+   - https://github.com/saurav-singh-web/creator-lens
+   - query: rag chatbot
+32. **priyankaparadkarr/priyanka-ai-security-portfolio** ★0 ``
+   - 
+   - https://github.com/priyankaparadkarr/priyanka-ai-security-portfolio
+   - query: ai security
+33. **danielof26/RAG-chatbot-web** ★0 `JavaScript`
+   - 
+   - https://github.com/danielof26/RAG-chatbot-web
+   - query: rag chatbot
+34. **Asphane/YT-ChatBot-RAG** ★0 `Jupyter Notebook`
+   - A RAG chatbot that answers questions about YouTube videos by retrieving relevant transcript chunks and generating responses with a large language model, using FAISS for vector search and HuggingFace embeddings.
+   - https://github.com/Asphane/YT-ChatBot-RAG
+   - query: rag chatbot
+35. **gmh5225/awesome-ai-security** ★21 ``
+   - A curated list of AI Security materials and resources for Pentesters, Bug Hunters, and Security Researchers.
+   - https://github.com/gmh5225/awesome-ai-security
+   - query: ai security
+36. **madhucnghubphilips/AI-Security-Learning-Hub** ★0 ``
+   - AI fundamentals - LLM Concepts, RAG, MCP, Hallucinations, Jailbreaks, Responsible AI, and OWASP Top 10 for LLMs including hands on labs.
+   - https://github.com/madhucnghubphilips/AI-Security-Learning-Hub
+   - query: ai security
+37. **emaina-SecEngr/AbuTech-ai-security-platform** ★0 `Python`
+   -                  A production-grade AI Security Platform                    with multi-layer ML architecture —                    Network Intrusion Detection, Malware                    Analysis, GNN Threat Intelligence,
+   - https://github.com/emaina-SecEngr/AbuTech-ai-security-platform
+   - query: ai security
+38. **YSR4038/Apex-Retail-Intelligence-Secure-Operations-AI-Security-Console** ★0 `TypeScript`
+   - Real-time retail intelligence and anomaly detection powered by multimodal AI.
+   - https://github.com/YSR4038/Apex-Retail-Intelligence-Secure-Operations-AI-Security-Console
+   - query: ai security
+39. **Daryoush1989/ai-security-triage-platform** ★0 `Python`
+   - 
+   - https://github.com/Daryoush1989/ai-security-triage-platform
+   - query: ai security
+40. **zosob/AgentGuardian** ★0 `Python`
+   - AgentGuardian is a local-first AI security web app that scans agentic AI workflows for risks like prompt injection, tool misuse, excessive autonomy, and sensitive data exposure using Streamlit, Python, and Ollama.
+   - https://github.com/zosob/AgentGuardian
+   - query: ai security
+41. **Landjun/ai-security-portfolio** ★0 `Python`
+   - 
+   - https://github.com/Landjun/ai-security-portfolio
+   - query: ai security
+42. **rohankr21/Carbontatva-RAG-for-texts-only** ★0 ``
+   - A RAG Chatbot made using Qdrant, PYMUPDD4LLM and Langchain
+   - https://github.com/rohankr21/Carbontatva-RAG-for-texts-only
+   - query: rag chatbot
+43. **tran-learner/CTU-RAG-Chatbot** ★0 `Jupyter Notebook`
+   - 
+   - https://github.com/tran-learner/CTU-RAG-Chatbot
+   - query: rag chatbot
+44. **Yashvi2912/AI-Cold-Email-Automation** ★0 ``
+   - An n8n workflow that uses AI to generate personalized job application drafts based on job URLs, with conditional routing for Gmail and Outlook
+   - https://github.com/Yashvi2912/AI-Cold-Email-Automation
+   - query: email automation
+45. **Av1352/rag-chatbot-faiss** ★0 `Python`
+   - 
+   - https://github.com/Av1352/rag-chatbot-faiss
+   - query: rag chatbot
+46. **adya07pandey/CreatorLens** ★0 `Python`
+   - RAG chatbot that compares YouTube & Instagram videos — transcribes, embeds, and lets you chat with the content. Built with LangGraph, Qdrant, Voyage AI, and Qwen.
+   - https://github.com/adya07pandey/CreatorLens
+   - query: rag chatbot
+47. **Kanaieu/chatKUHP** ★0 `TypeScript`
+   - Goal-oriented Graphs RAG chatbot for Kitab Undang-Undang Hukum Pidana (Indonesia's Criminal Law)
+   - https://github.com/Kanaieu/chatKUHP
+   - query: rag chatbot
+48. **I-am-Hanish/RAG-CHATBOT** ★0 `Python`
+   - 
+   - https://github.com/I-am-Hanish/RAG-CHATBOT
+   - query: rag chatbot
+49. **Meirah0/rag-ai-chatbot** ★0 ``
+   - A Python-based RAG chatbot application with a Streamlit interface and Pinecone integration.
+   - https://github.com/Meirah0/rag-ai-chatbot
+   - query: rag chatbot
+50. **aathiftr2005-debug/invoice-automation** ★0 `JavaScript`
+   - 
+   - https://github.com/aathiftr2005-debug/invoice-automation
+   - query: invoice automation
+51. **rose-francis/RAG-Chatbot** ★0 `Python`
+   - A PDF based RAG chatbot.
+   - https://github.com/rose-francis/RAG-Chatbot
+   - query: rag chatbot
+52. **Sabreen31/rag-document-chatbot** ★0 ``
+   - AI-powered RAG chatbot using LangChain, ChromaDB, and Llama 3
+   - https://github.com/Sabreen31/rag-document-chatbot
+   - query: rag chatbot
+53. **Arshad111777/gyansathi-ai** ★0 `Python`
+   - RAG chatbot for learning
+   - https://github.com/Arshad111777/gyansathi-ai
+   - query: rag chatbot
+54. **nehirkoyuncu/car-manual-rag-chatbot** ★0 `Jupyter Notebook`
+   - Context-aware chatbot that answers car warning questions using Retrieval Augmented Generation (RAG) — built with LangChain, OpenAI, and Chroma
+   - https://github.com/nehirkoyuncu/car-manual-rag-chatbot
+   - query: rag chatbot
+55. **apar-tech/rag-chatbot** ★0 `Jupyter Notebook`
+   - RAG Chatbot using Groq, ChromaDB and HuggingFace Embeddings
+   - https://github.com/apar-tech/rag-chatbot
+   - query: rag chatbot
+56. **iavisheksinha/ScholarAI** ★0 `Python`
+   - Local RAG chatbot using Ollama, LangChain, and LLaMA3 for private AI document querying
+   - https://github.com/iavisheksinha/ScholarAI
+   - query: rag chatbot
+57. **Harsh123466/PDF-RAG-Chatbot** ★0 `Jupyter Notebook`
+   - 
+   - https://github.com/Harsh123466/PDF-RAG-Chatbot
+   - query: rag chatbot
+58. **Manujunior09/RAG_chatbot_juris** ★0 `Python`
+   - 
+   - https://github.com/Manujunior09/RAG_chatbot_juris
+   - query: rag chatbot
+59. **Itxaadii/Fashion---RAG-Chatbot** ★0 ``
+   - 
+   - https://github.com/Itxaadii/Fashion---RAG-Chatbot
+   - query: rag chatbot
+60. **Wemelo1/pdf-rag-chatbot** ★0 `Python`
+   - Ai Chatbot that lets you chat with any PDF using RAG + LLaMA 3.3
+   - https://github.com/Wemelo1/pdf-rag-chatbot
+   - query: rag chatbot
+61. **msrilaya18/RAG_CHATBOT** ★0 `Python`
+   - 
+   - https://github.com/msrilaya18/RAG_CHATBOT
+   - query: rag chatbot
+62. **utkarsh1042005/RAG-Chatbot** ★0 `Python`
+   - 
+   - https://github.com/utkarsh1042005/RAG-Chatbot
+   - query: rag chatbot
+63. **AdityaNugrahaPS/BPS-RAG-Chatbot** ★0 `TypeScript`
+   - 
+   - https://github.com/AdityaNugrahaPS/BPS-RAG-Chatbot
+   - query: rag chatbot
+64. **Harry160820/social-media-automation** ★0 ``
+   - 
+   - https://github.com/Harry160820/social-media-automation
+   - query: social media automation
+65. **markahope-aag/cadence** ★0 `TypeScript`
+   - Cadence email automation app
+   - https://github.com/markahope-aag/cadence
+   - query: email automation
+66. **erchandrain-ui/Email-Automation-Reminder-System** ★0 `HTML`
+   - The Email Automation Reminder System you are building is a practical tool designed to streamline communication and ensure you never miss critical
+   - https://github.com/erchandrain-ui/Email-Automation-Reminder-System
+   - query: email automation
+67. **Elavarasan-Saravanan/Open-Invoice-Automation** ★0 ``
+   - Automates a 48-step manual Excel invoice process using Python, pandas and numpy
+   - https://github.com/Elavarasan-Saravanan/Open-Invoice-Automation
+   - query: invoice automation
+68. **annai-stack/oangle-lead-finder** ★0 `Python`
+   - AI-powered F&B lead generation agent for Oangle Singapore — Claude + web search
+   - https://github.com/annai-stack/oangle-lead-finder
+   - query: lead generation
+69. **MatiasJF/cinematic_content_automation** ★0 ``
+   - cinematic_content_automation
+   - https://github.com/MatiasJF/cinematic_content_automation
+   - query: content automation
+70. **MadhuSudhan138/Email_NonStop** ★0 ``
+   - Python email automation tool that sends repeated emails and automatically stops when a new reply is detected from the recipient.
+   - https://github.com/MadhuSudhan138/Email_NonStop
+   - query: email automation
+71. **Vinphy6/outlook-email-automation** ★0 ``
+   - 
+   - https://github.com/Vinphy6/outlook-email-automation
+   - query: email automation
+72. **mansisonani07/immigration-lead-gen-system** ★0 ``
+   - AI-powered immigration lead generation system using n8n, Groq AI, Google Sheets, and Gmail. Auto-qualifies Reddit/Quora leads by intent, urgency, visa type, and revenue potential.
+   - https://github.com/mansisonani07/immigration-lead-gen-system
+   - query: lead generation
+73. **spirita1204/Leetcode** ★2 ``
+   - 🎯Record my Leetcode daily challenge📚Automatically package the LeetCode problems written daily into an .MD file through Notion using a Zapier workflow + Webhooks and upload it to the github.
+   - https://github.com/spirita1204/Leetcode
+   - query: zapier
+74. **urwithdhanu-design/EmailAutomationAgent-repo** ★0 ``
+   - 
+   - https://github.com/urwithdhanu-design/EmailAutomationAgent-repo
+   - query: email automation
+75. **5h3r42/aitechinnovations** ★0 `HTML`
+   - AI-assisted lead generation website built with Next.js, TypeScript, and Tailwind
+   - https://github.com/5h3r42/aitechinnovations
+   - query: lead generation
+76. **SanjayD23/Zapier-Automation** ★0 ``
+   - 
+   - https://github.com/SanjayD23/Zapier-Automation
+   - query: zapier
+77. **MabrokaMedia/davoxi-zapier** ★0 `JavaScript`
+   - Zapier integration for the Davoxi AI voice agent platform
+   - https://github.com/MabrokaMedia/davoxi-zapier
+   - query: zapier
+78. **ronipl/multi-store-email-automation** ★0 `TypeScript`
+   - 
+   - https://github.com/ronipl/multi-store-email-automation
+   - query: email automation
+79. **saranjoybps/joyerp** ★0 `TypeScript`
+   - Joy CRM B2B lead generation
+   - https://github.com/saranjoybps/joyerp
+   - query: lead generation
+80. **KapKapkin/business-automation** ★0 `Python`
+   - 
+   - https://github.com/KapKapkin/business-automation
+   - query: business automation
+81. **ibmbpm/ibm-baw-mcp-server** ★9 `Python`
+   - The IBM® Business Automation Workflow MCP Server is a local Model Control Protocol (MCP) server that supports integration of AI agents with IBM® Business Automation Workflow through the Model Context Protocol.
+   - https://github.com/ibmbpm/ibm-baw-mcp-server
+   - query: business automation
+82. **Krishna17-bit/ContentFlow** ★0 ``
+   - AI video and social content automation studio for scripts, storyboards, prompt packs, captions, local faceless MP4 generation, campaign calendars, ad variants, and optional video API workflows.
+   - https://github.com/Krishna17-bit/ContentFlow
+   - query: content automation
+83. **yossweh/cold-email-engine** ★0 ``
+   - AI-powered cold email automation — scrape leads, generate personalized emails with Claude, send via SMTP
+   - https://github.com/yossweh/cold-email-engine
+   - query: email automation
+84. **saeseduardo/ai-customer-service-platform** ★0 ``
+   - An AI-powered customer support system integrated with WhatsApp Cloud API and OpenAI GPT-4o. Automates customer interactions, detects escalation intent, and routes complex cases to human agents — reducing support workload
+   - https://github.com/saeseduardo/ai-customer-service-platform
+   - query: ai customer service
+85. **nirbhayalone27/Skynex** ★1 `JavaScript`
+   - An intelligent multi-agent lead generation and automation platform designed to discover, analyze, qualify, and manage high-quality leads using AI agents, workflow automation, and decision intelligence.
+   - https://github.com/nirbhayalone27/Skynex
+   - query: lead generation
+86. **sekharson/LaunchBoost** ★0 ``
+   - LaunchBoost is a modern digital marketing services website for startups featuring responsive design, interactive service sliders, pricing plans, case studies, comparison tables, and lead-generation focused user experienc
+   - https://github.com/sekharson/LaunchBoost
+   - query: lead generation
+87. **sekharson/Launch-Boost** ★0 ``
+   - LaunchBoost is a modern digital marketing services website for startups featuring responsive design, interactive service sliders, pricing plans, case studies, comparison tables, and lead-generation focused user experienc
+   - https://github.com/sekharson/Launch-Boost
+   - query: lead generation
+88. **ambrose-kutti/ML-PaperStream** ★0 ``
+   - Zapier automation to collect arXiv Machine Learning papers and send a weekly digest email.
+   - https://github.com/ambrose-kutti/ML-PaperStream
+   - query: zapier
+89. **anujkd09/Zapier-deployment-events-api** ★0 ``
+   - Zapier Backend service for querying deployment event history and release health data.
+   - https://github.com/anujkd09/Zapier-deployment-events-api
+   - query: zapier
+90. **exekyute/zapier-proj-health-rollup** ★0 ``
+   - No-code Zapier automation that scores Notion projects with AI and posts a daily Green/Yellow/Red standup to Slack, with overnight change detection.
+   - https://github.com/exekyute/zapier-proj-health-rollup
+   - query: zapier
+91. **hanschauhan464-art/AI-STUDENT-INTEREST-ANALYZER** ★0 ``
+   - AI Student Interest Analyzer project using Google Forms, Zapier, AI and Gmail automation.
+   - https://github.com/hanschauhan464-art/AI-STUDENT-INTEREST-ANALYZER
+   - query: zapier
+92. **ToDa-Inc/silas-content-system** ★0 `TypeScript`
+   - AI-powered Instagram Reels content automation system
+   - https://github.com/ToDa-Inc/silas-content-system
+   - query: content automation
+93. **ankitatiwari-06/lead-generation-CRM** ★0 `JavaScript`
+   - 
+   - https://github.com/ankitatiwari-06/lead-generation-CRM
+   - query: lead generation
+94. **hemnath-gokul/NexaGrow-Digital-Marketing** ★0 ``
+   - Modern conversion-focused digital marketing services website featuring a forecast calculator, pricing plans, comparison tables, responsive design, and lead generation strategies.
+   - https://github.com/hemnath-gokul/NexaGrow-Digital-Marketing
+   - query: lead generation
+95. **xiaoyixin3/SmartServiceHub** ★0 ``
+   - Enterprise-grade AI Customer Service Platform with Multi-Agent Architecture
+   - https://github.com/xiaoyixin3/SmartServiceHub
+   - query: ai customer service
+96. **Abdulrehman1121/LeadGeneration** ★0 `Python`
+   - 
+   - https://github.com/Abdulrehman1121/LeadGeneration
+   - query: lead generation
+97. **tinkunagasaipavan/Content_Marketing** ★0 ``
+   - A guest blog on Content Marketing strategy for Better Insights — covering content calendars, pillar content, AI-assisted writing, repurposing frameworks, and lead generation techniques for 2026.
+   - https://github.com/tinkunagasaipavan/Content_Marketing
+   - query: lead generation
+98. **kitretsu2809/YOUR_OWN_BUSINESS_CREW** ★0 ``
+   - THE BUSINESS AUTOMATION 
+   - https://github.com/kitretsu2809/YOUR_OWN_BUSINESS_CREW
+   - query: business automation
+99. **DDS-Solutions/AI-TadPole-OS** ★4 `TypeScript`
+   - AI-Tadpole-OS a local-first "development platform" for running autonomous AI agent teams on your own hardware. Coordinate parallel workflows, maintain full data privacy, and oversee every decision — no cloud required.
+   - https://github.com/DDS-Solutions/AI-TadPole-OS
+   - query: ai agent
+100. **MemTensor/MemOS** ★9515 `TypeScript`
+   - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
+   - https://github.com/MemTensor/MemOS
+   - query: ai agent
