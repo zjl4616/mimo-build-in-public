@@ -1,0 +1,408 @@
+# GitHub Learning Batch 20260612-022016
+
+- corpus: `/home/ubuntu/mimo-token-to-cash/discovery/github-learning-corpus.jsonl`
+- total learned metadata: 22538
+- new this run: 15
+
+## 最新项目样本（用于提炼需求/服务/触达）
+
+1. **Sukhendu2002/Chamber** ★0 `TypeScript`
+   - Chamber is a modern expense tracking application with AI-powered receipt parsing, Telegram bot integration, and real-time analytics.
+   - https://github.com/Sukhendu2002/Chamber
+   - query: telegram bot
+2. **D333K/Telegram-Bot** ★0 `Python`
+   - 
+   - https://github.com/D333K/Telegram-Bot
+   - query: telegram bot
+3. **AmirabbasRouintan/BotU** ★0 `TypeScript`
+   - A no-code Telegram bot builder platform with AI-powered assistance. Build, configure, and manage Telegram bots visually through a web dashboard. Built with React, Django, and Gemini AI.
+   - https://github.com/AmirabbasRouintan/BotU
+   - query: telegram bot
+4. **SepehrFJB/RoboDownload** ★0 ``
+   - Advanced Telegram bot for downloading media
+   - https://github.com/SepehrFJB/RoboDownload
+   - query: telegram bot
+5. **swdmk6605-pixel/telegram-bot** ★0 `Python`
+   - 
+   - https://github.com/swdmk6605-pixel/telegram-bot
+   - query: telegram bot
+6. **hassiel-ul/nexo-whatsapp-bot** ★0 ``
+   - 
+   - https://github.com/hassiel-ul/nexo-whatsapp-bot
+   - query: whatsapp bot
+7. **ggirissh-boop/Data-Cleaning-Assignment** ★0 `Jupyter Notebook`
+   - 
+   - https://github.com/ggirissh-boop/Data-Cleaning-Assignment
+   - query: data cleaning
+8. **adewda25/Crime-Against-Women-Data-Cleaning** ★0 ``
+   - 
+   - https://github.com/adewda25/Crime-Against-Women-Data-Cleaning
+   - query: data cleaning
+9. **MateusKasuya/cra_browser_automation** ★0 `Python`
+   - 
+   - https://github.com/MateusKasuya/cra_browser_automation
+   - query: browser automation
+10. **ironrace/ironmem** ★0 `Rust`
+   - AI memory MCP server — semantic search + knowledge graph in a single binary
+   - https://github.com/ironrace/ironmem
+   - query: mcp server
+11. **ralle-lang/exoscale-mcp-advisor** ★0 `Python`
+   - Read-only Exoscale advisor MCP server — docs search + list-only live catalogue queries, structurally incapable of mutation.
+   - https://github.com/ralle-lang/exoscale-mcp-advisor
+   - query: mcp server
+12. **n-sig/REX-ContextCruncher** ★1 `Python`
+   - AI-optimized clipboard manager with native screen OCR, image snipping, zero-trust token compression, and MCP server. Everything stays in RAM, no cloud, no admin.
+   - https://github.com/n-sig/REX-ContextCruncher
+   - query: mcp server
+13. **mukul975/malware-sandbox-mcp** ★0 `Python`
+   - MCP server that detonates files/URLs in cloud malware sandboxes (Hybrid Analysis, tria.ge) and enriches IOCs across MalwareBazaar, ThreatFox, URLhaus, Feodo, URLScan & VirusTotal — BYOK, async submit-poll, normalized rep
+   - https://github.com/mukul975/malware-sandbox-mcp
+   - query: mcp server
+14. **Thor-DraperJr/social-promoter-mcp** ★0 ``
+   - Portable MCP server that gives any Copilot/agent session a gated social-promotion workflow: find a post, sample tone, lint copy against voice rules, estimate posting cost, and publish only behind explicit human approval.
+   - https://github.com/Thor-DraperJr/social-promoter-mcp
+   - query: mcp server
+15. **moritzzzzz/mapbox-map-tools-mcp** ★1 `JavaScript`
+   - Local Javascript MCP server for interaction with Mapbox GL JS v3 in web applications
+   - https://github.com/moritzzzzz/mapbox-map-tools-mcp
+   - query: mcp server
+16. **bogdan867a/ModerationToolForTelegram-Bot-** ★0 `C#`
+   - minimal telegram bot for moderation & self-hosting
+   - https://github.com/bogdan867a/ModerationToolForTelegram-Bot-
+   - query: telegram bot
+17. **adhamzor223-dev/Telegram-bot** ★0 `Python`
+   - 
+   - https://github.com/adhamzor223-dev/Telegram-bot
+   - query: telegram bot
+18. **viveka-13/Local-Business-Discovery** ★0 `JavaScript`
+   - An automated Telegram Bot pipeline that discovers local businesses, identifies those without websites, and uses AI to generate and deploy premium static websites for them automatically.
+   - https://github.com/viveka-13/Local-Business-Discovery
+   - query: telegram bot
+19. **tdlib/telegram-bot-api** ★4274 `C++`
+   - Telegram Bot API server 
+   - https://github.com/tdlib/telegram-bot-api
+   - query: telegram bot
+20. **loisekk/langchain-groq-experiments** ★0 `Python`
+   - Hands-on experiments w/ LangChain + Groq: chatbot, news agent, RAG pipeline, PDF extraction. WIP, debugging in progress.
+   - https://github.com/loisekk/langchain-groq-experiments
+   - query: pdf extraction
+21. **Gangesh2011/DataCleaner-Edition-2** ★0 ``
+   - A reusable Python data-cleaning module focused on null handling, risk-aware operations, logging, and dataset validation.
+   - https://github.com/Gangesh2011/DataCleaner-Edition-2
+   - query: data cleaning
+22. **HafsaRifai/E-commerce-Delivery-Performance-Analysis** ★0 `Jupyter Notebook`
+   - This project contains code and analysis for identifying and predicting e-commerce delivery delays. Includes data cleaning, exploratory data analysis (EDA) to uncover bottlenecks and patterns, and a machine learning model
+   - https://github.com/HafsaRifai/E-commerce-Delivery-Performance-Analysis
+   - query: data cleaning
+23. **Syedasafiya/Data-Cleaning** ★0 `Python`
+   - 
+   - https://github.com/Syedasafiya/Data-Cleaning
+   - query: data cleaning
+24. **nityakaushik1999/Dirty-Shipments-Data-Cleaning** ★0 ``
+   - Data Cleaning project using MySQL on a logistics shipment dataset. Includes missing value treatment, duplicate detection, data validation, text standardization, and outlier analysis.
+   - https://github.com/nityakaushik1999/Dirty-Shipments-Data-Cleaning
+   - query: data cleaning
+25. **HuyinCP/Bike-Sharing** ★0 `Jupyter Notebook`
+   - EDA of Citi Bike (NYC), Divvy (Chicago), and Capital Bikeshare (DC) trip data, Apr 2025–Apr 2026. Data cleaning, statistics, and visualization with Python, DuckDB, and Jupyter.
+   - https://github.com/HuyinCP/Bike-Sharing
+   - query: data cleaning
+26. **bicalhojr7/dra-natasha-c-welikson-endocrinologista-em-s-6625d** ★0 `HTML`
+   - Auto-generated site by PROSPECT / Stitch
+   - https://github.com/bicalhojr7/dra-natasha-c-welikson-endocrinologista-em-s-6625d
+   - query: prospecting
+27. **sekerc-ui/xiaomi-unlock-sniper** ★0 ``
+   - An alternative approach to Xiaomi Bootloader Unlock sniping. This tool bypasses daily quotas using a new Playwright browser automation method and a mobile-friendly manual token mode.
+   - https://github.com/sekerc-ui/xiaomi-unlock-sniper
+   - query: browser automation
+28. **rraghu214/lab-lens-browser-automation** ★0 `Python`
+   - 
+   - https://github.com/rraghu214/lab-lens-browser-automation
+   - query: browser automation
+29. **jgkme/img-gen-mcp** ★0 `JavaScript`
+   - MCP server for image generation, local image manipulation, and web-ready finalization through compatible providers.
+   - https://github.com/jgkme/img-gen-mcp
+   - query: mcp server
+30. **jcucci/dotnet-sherlock-mcp** ★4 `C#`
+   - MCP server that uses reflection to provide LLM's with knowledger about dotnet classes, their members and their signatures
+   - https://github.com/jcucci/dotnet-sherlock-mcp
+   - query: mcp server
+31. **galvangabriel-web/agentropix-mcp** ★0 `Python`
+   - Agentropix is a governed Model Context Protocol (MCP) server for digital forensics and incident response. It wraps battle-tested DFIR tooling—Plaso, Volatility 3, Sleuth Kit, YARA, EZ Tools—behind safety-gated, auditable
+   - https://github.com/galvangabriel-web/agentropix-mcp
+   - query: mcp server
+32. **rosarion97/panorama-readonly-mcp-server-public** ★0 `Python`
+   - Read-only MCP server for querying Palo Alto Networks Panorama via the PAN-OS XML API — Podman + Docker
+   - https://github.com/rosarion97/panorama-readonly-mcp-server-public
+   - query: mcp server
+33. **claymore666/debmatic-mcp** ★0 `TypeScript`
+   - MCP server for controlling HomeMatic smart home devices via the CCU JSON-RPC API
+   - https://github.com/claymore666/debmatic-mcp
+   - query: mcp server
+34. **Alvaromah/spectral** ★0 `JavaScript`
+   - AI agents write ZX Spectrum 48K games — zxs CLI + MCP server over a headless emulator, with screen OCR, source-level debugging and a hang watchdog. Gallery of agent-made games, full provenance.
+   - https://github.com/Alvaromah/spectral
+   - query: mcp server
+35. **Hamidreza59/fleet-mcp-server** ★0 ``
+   - mcp server contains several tools and RAG for fleet agent to use
+   - https://github.com/Hamidreza59/fleet-mcp-server
+   - query: mcp server
+36. **AngelZhaksy/carsim-mcp-Carsim-matlab-mcp-server** ★1 `Python`
+   - This repository is used to load carsim into the agent, and it can allow the agent to call the CLI of carsim to carry out the co-simulation of Carsim and matlab. This repository has been tested.If you like this project, p
+   - https://github.com/AngelZhaksy/carsim-mcp-Carsim-matlab-mcp-server
+   - query: mcp server
+37. **razreshitel/flipper-tg** ★0 `C`
+   - Telegram bot bridge for Flipper Zero — Pi server + FAP app
+   - https://github.com/razreshitel/flipper-tg
+   - query: telegram bot
+38. **learngermanbd/telegram-sms-parser-bot** ★0 `Python`
+   - Telegram bot that parses bKash, NAGAD, and Rocket SMS messages into formatted templates
+   - https://github.com/learngermanbd/telegram-sms-parser-bot
+   - query: telegram bot
+39. **zhangirsharip-boop/hf-cs2-bot** ★0 `Python`
+   - Telegram bot for CS2 matchmaking with friends: sign-ups, team split by FACEIT ELO, FACEIT stats (last 20, all time, peak ELO)
+   - https://github.com/zhangirsharip-boop/hf-cs2-bot
+   - query: telegram bot
+40. **Auntjoestar/ku-telegram-bot** ★0 `Svelte`
+   - 
+   - https://github.com/Auntjoestar/ku-telegram-bot
+   - query: telegram bot
+41. **nikijaz/agh-bot** ★0 `Python`
+   - A multi-purpose Telegram bot for AGH University’s community, written in Python using Aiogram.
+   - https://github.com/nikijaz/agh-bot
+   - query: telegram bot
+42. **nzaxoy41-pixel/telegram_bot** ★0 ``
+   - 
+   - https://github.com/nzaxoy41-pixel/telegram_bot
+   - query: telegram bot
+43. **apifenylabs/nudge-app** ★0 `TypeScript`
+   - Nudge Beast - Family task management Telegram bot + PWA with AI enforcement
+   - https://github.com/apifenylabs/nudge-app
+   - query: telegram bot
+44. **mzallaghi4/-Data-Analytics-** ★0 ``
+   -  Data analytics projects demonstrating my skills in data cleaning, exploratory data analysis, statistical modeling, and data visualization.
+   - https://github.com/mzallaghi4/-Data-Analytics-
+   - query: data cleaning
+45. **aditi-patil2910/Bite-Brew-Cafe-Sales-Analysis---Python-Power-BI-Project** ★0 ``
+   - End-to-end sales analysis project for a cafe business — data cleaning in Python (Pandas) and an interactive 3-page sales dashboard built in Power BI covering revenue, product performance, and time analysis.
+   - https://github.com/aditi-patil2910/Bite-Brew-Cafe-Sales-Analysis---Python-Power-BI-Project
+   - query: data cleaning
+46. **214004balamanikandanc-del/Data-Cleaning-Visualization-Project** ★0 `Python`
+   - 
+   - https://github.com/214004balamanikandanc-del/Data-Cleaning-Visualization-Project
+   - query: data cleaning
+47. **2007shreyadhumal-cloud/data-cleaning-visualization-project** ★0 ``
+   - 
+   - https://github.com/2007shreyadhumal-cloud/data-cleaning-visualization-project
+   - query: data cleaning
+48. **mohammadfaiz9455-code/Customer-churn-prediction.github.io** ★0 ``
+   - Built a Customer Churn Prediction model using Machine Learning to identify customers likely to leave. Performed data cleaning, EDA, feature engineering, and model evaluation to improve retention.
+   - https://github.com/mohammadfaiz9455-code/Customer-churn-prediction.github.io
+   - query: data cleaning
+49. **harmendra750/customer-shopping-behavior** ★0 `Jupyter Notebook`
+   - From loading and cleaning raw data in Python, to performing data cleaning, exploratory data analysis (EDA), analyzing and solving business problems using SQL, to building an interactive Power BI dashboard, you’ll learn h
+   - https://github.com/harmendra750/customer-shopping-behavior
+   - query: data cleaning
+50. **Aditi-12-soni/Tesla_Stock_Price_Prediction** ★0 `Python`
+   - Developed a Tesla Stock Price Prediction system using SimpleRNN and LSTM models for time-series forecasting. The project includes data cleaning, EDA, feature scaling, sequence generation, model comparison using MSE/MAE/R
+   - https://github.com/Aditi-12-soni/Tesla_Stock_Price_Prediction
+   - query: data cleaning
+51. **jonaspm/bunwright** ★16 `TypeScript`
+   - The lightweight browser automation library for Bun
+   - https://github.com/jonaspm/bunwright
+   - query: browser automation
+52. **chenzhi1985/geo-mcp-server** ★0 `Python`
+   - 
+   - https://github.com/chenzhi1985/geo-mcp-server
+   - query: mcp server
+53. **clausfonnesbech/agentic-framework** ★0 `PowerShell`
+   - Production-ready framework for orchestrating specialized AI agents in software development workflows. 10 agents, 21 skills, 9 templates, 12 MCP servers. Security-first development with iteration control.
+   - https://github.com/clausfonnesbech/agentic-framework
+   - query: mcp server
+54. **ruwadgroup/docxengine** ★0 `Python`
+   - AI-optimized DOCX manipulation engine: deterministic OOXML core, MCP server, and framework-agnostic Python/JS tools.
+   - https://github.com/ruwadgroup/docxengine
+   - query: mcp server
+55. **RedCiprianPater/nwo-chatgpt-app** ★0 `HTML`
+   - NWO Robotics MCP Server for ChatGPT - Control robots, IoT devices, and swarms via natural language
+   - https://github.com/RedCiprianPater/nwo-chatgpt-app
+   - query: mcp server
+56. **seekdevcore/sk-requirements-engineering-theskill** ★0 `Python`
+   - Requirements Engineering corpus for AI — Claude Code skill, plugin marketplace, and MCP server (Claude Desktop, Cursor, Cline, Continue, Zed, OpenAI Responses). Methodology from IFPB ERS course + canonical bibliography (
+   - https://github.com/seekdevcore/sk-requirements-engineering-theskill
+   - query: mcp server
+57. **lbruton/SpecFlow** ★0 `TypeScript`
+   - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard.
+   - https://github.com/lbruton/SpecFlow
+   - query: mcp server
+58. **PurrPod/mcps** ★0 `Python`
+   - Official and community collections of helpful MCP server 
+   - https://github.com/PurrPod/mcps
+   - query: mcp server
+59. **yashwanth-cybersec/Cyber_AI** ★0 ``
+   - Cyber AI Security Project
+   - https://github.com/yashwanth-cybersec/Cyber_AI
+   - query: ai security
+60. **MelDxKviel/reels-downloader-bot** ★4 `Python`
+   - Telegram bot for downloading videos from YouTube, Instagram Reels, TikTok, and X (Twitter)
+   - https://github.com/MelDxKviel/reels-downloader-bot
+   - query: telegram bot
+61. **bolatbaigozhin-cloud/telegram-bot** ★0 ``
+   - 
+   - https://github.com/bolatbaigozhin-cloud/telegram-bot
+   - query: telegram bot
+62. **tas-digitalmarket/taskboard** ★0 `JavaScript`
+   - Team Task Management Dashboard with Telegram Bot
+   - https://github.com/tas-digitalmarket/taskboard
+   - query: telegram bot
+63. **azra3l05/overseerr-telegram-bot** ★0 `Python`
+   - Feature-rich Telegram bot for Overseerr with real-time availability notifications, multi-library support, and admin controls
+   - https://github.com/azra3l05/overseerr-telegram-bot
+   - query: telegram bot
+64. **Mohanpandeyy/aaradhya-library-whatsapp-bot** ★0 `HTML`
+   - bot
+   - https://github.com/Mohanpandeyy/aaradhya-library-whatsapp-bot
+   - query: whatsapp bot
+65. **galbaneaziz/whatsapp-bot** ★0 ``
+   - bot whatsapp 
+   - https://github.com/galbaneaziz/whatsapp-bot
+   - query: whatsapp bot
+66. **Sathiyaseelan-2005/AdventureWorks-Sales-Customer-Insights-Dashboard** ★0 ``
+   - Built an end-to-end sales and customer insights dashboard using Excel, Python, SQL, Power BI, and DAX. Performed data cleaning, analysis, and visualization on the AdventureWorks dataset to uncover key business insights a
+   - https://github.com/Sathiyaseelan-2005/AdventureWorks-Sales-Customer-Insights-Dashboard
+   - query: data cleaning
+67. **RoseBludd/callzs** ★0 `HTML`
+   - Callzs Communications OS — AI-powered prospecting, call logs, campaigns, and softphone platform
+   - https://github.com/RoseBludd/callzs
+   - query: prospecting
+68. **HoodieYlya13/confluence-bot** ★0 ``
+   - RBAC-enforced MCP documentation RAG, end to end: Python MCP server with 4-layer security over live Confluence + Next.js console to experience it in the browser. Live demo, $0/month.
+   - https://github.com/HoodieYlya13/confluence-bot
+   - query: mcp server
+69. **blackducksoftware/mcp-server** ★0 ``
+   - AI-powered security analysis and vulnerability detection through MCP
+   - https://github.com/blackducksoftware/mcp-server
+   - query: mcp server
+70. **atom2ueki/mcp-server-synology** ★114 `Python`
+   - 💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto
+   - https://github.com/atom2ueki/mcp-server-synology
+   - query: mcp server
+71. **N-Combinator/firmbench** ★0 `Python`
+   - Raspberry Pi as an MCP server — lets AI agents flash, test and debug firmware on real hardware
+   - https://github.com/N-Combinator/firmbench
+   - query: mcp server
+72. **Gh-Novel/ThinkMCP-Agentic-Tools** ★0 `Python`
+   - MCP server with adaptive thinking — Claude reasons between every  tool call. 13 tools: research, memory, reasoning & actions.  Works with Claude Desktop, Cursor, and VS Code out of the box.
+   - https://github.com/Gh-Novel/ThinkMCP-Agentic-Tools
+   - query: mcp server
+73. **arunkumars-mf/memnest-mcp** ★0 `Python`
+   - Persistent graph memory MCP server for AI agents. LadybugDB-powered with semantic search, auto-dedup, and Cypher graph queries.
+   - https://github.com/arunkumars-mf/memnest-mcp
+   - query: mcp server
+74. **youyo/aws-mcp-gateway** ★0 `Go`
+   - OIDC-authenticated reverse proxy for AWS MCP Server — idproxy + SigV4 RoundTripper
+   - https://github.com/youyo/aws-mcp-gateway
+   - query: mcp server
+75. **Yashwanth7476/cyber_ai.** ★0 ``
+   - Cyber AI Security Project
+   - https://github.com/Yashwanth7476/cyber_ai.
+   - query: ai security
+76. **bluelifemmd2007-cell/-mmd-web-profile** ★1 ``
+   - Official portfolio website for Mohammad Mahdi Mohammadi, featuring Python projects, automation tools, Telegram bots, and professional development work.
+   - https://github.com/bluelifemmd2007-cell/-mmd-web-profile
+   - query: telegram bot
+77. **NikichXP/tgbot** ★1 `Kotlin`
+   - telegram bot for something
+   - https://github.com/NikichXP/tgbot
+   - query: telegram bot
+78. **ItsVasl/Telegram-bot** ★0 `Python`
+   - 
+   - https://github.com/ItsVasl/Telegram-bot
+   - query: telegram bot
+79. **amirzamahmudov08-jpg/telegram-bot** ★0 `Python`
+   - 
+   - https://github.com/amirzamahmudov08-jpg/telegram-bot
+   - query: telegram bot
+80. **Pururajchauhan/data-cleaning-with-sql-learning-phase-** ★0 ``
+   - working with random dataset
+   - https://github.com/Pururajchauhan/data-cleaning-with-sql-learning-phase-
+   - query: data cleaning
+81. **afiyaamer/Real-world-Data-Project-Finance-Health-or-Retail-** ★0 `Python`
+   - Analyzed real-world datasets to uncover meaningful trends, patterns, and business insights. Performed data cleaning, preprocessing, exploratory data analysis, and visualization using Python libraries such as Pandas, Matp
+   - https://github.com/afiyaamer/Real-world-Data-Project-Finance-Health-or-Retail-
+   - query: data cleaning
+82. **Bhavitha-indugu/Customer-Segmentation-Analysis-Using-Excel** ★0 ``
+   - An Excel-based customer segmentation project using the Mall Customers dataset. The project includes data cleaning, pivot table analysis, customer grouping based on income and spending behavior, interactive dashboards, an
+   - https://github.com/Bhavitha-indugu/Customer-Segmentation-Analysis-Using-Excel
+   - query: data cleaning
+83. **NimsaraWickramarathna/fuel-efficiency-prediction** ★0 `Jupyter Notebook`
+   - A beginner-friendly machine learning regression project that predicts vehicle fuel efficiency (MPG) using the Auto MPG dataset with EDA, data cleaning, feature engineering, and model evaluation.
+   - https://github.com/NimsaraWickramarathna/fuel-efficiency-prediction
+   - query: data cleaning
+84. **krishlibran/Project-2-Legacy-Data-Cleaning-Protocol-Data-Rescue-Initiative** ★0 ``
+   - 
+   - https://github.com/krishlibran/Project-2-Legacy-Data-Cleaning-Protocol-Data-Rescue-Initiative
+   - query: data cleaning
+85. **julianargus01/the-source-ai** ★1 `HTML`
+   - The AI stack, indexed. 2,440 MCP servers + GitHub trending repos.
+   - https://github.com/julianargus01/the-source-ai
+   - query: mcp server
+86. **Octo-Lex/ChatGPT-Web2API** ★0 `Python`
+   - OpenAI-compatible API proxy for ChatGPT web — expose ChatGPT as an MCP server, REST API, and OpenAI SDK endpoint via CDP-driven browser automation
+   - https://github.com/Octo-Lex/ChatGPT-Web2API
+   - query: mcp server
+87. **artiz/kate-chat** ★7 `HTML`
+   - KateChat is a universal chat bot platform similar to chat.openai.com.  The platform supports multiple LLM providers, MCP servers (with OAuth), RAG with semantic search for different DB (sqlite, PostgreSQL, MS SQL).
+   - https://github.com/artiz/kate-chat
+   - query: mcp server
+88. **k9fr4n/thruk-mcp** ★0 `Python`
+   - mcp server for thruk monitoring
+   - https://github.com/k9fr4n/thruk-mcp
+   - query: mcp server
+89. **Nijithsiva/custom_mcp_server** ★0 ``
+   - Mcp server to connect Cassandra database
+   - https://github.com/Nijithsiva/custom_mcp_server
+   - query: mcp server
+90. **CloudSecurityAlliance/SecID-Service** ★0 `HTML`
+   - SecID REST API and MCP server (Cloudflare Worker) — by Kurt Seifried, CIO, Cloud Security Alliance
+   - https://github.com/CloudSecurityAlliance/SecID-Service
+   - query: mcp server
+91. **Ayubjon/prompt-forge** ★2 `TypeScript`
+   - MCP server that forges rough prompts into expert, task-tailored prompts (OpenAI-compatible, BYO key)
+   - https://github.com/Ayubjon/prompt-forge
+   - query: mcp server
+92. **kpsuperplane/google-mcp-server** ★0 ``
+   - self-hosted MCP server for authenticating with Gmail, gcal, etc...
+   - https://github.com/kpsuperplane/google-mcp-server
+   - query: mcp server
+93. **BG-QWQ/FindingBridge** ★0 `TypeScript`
+   - FindingBridge is an open-source MCP server and visual setup tool that connects code scanning findings from SonarCloud, Socket.dev, GitHub Code Scanning, SARIF, Snyk, Semgrep, and more to AI agents for safe, privacy-first
+   - https://github.com/BG-QWQ/FindingBridge
+   - query: mcp server
+94. **zzstoatzz/semble** ★0 `Python`
+   - typed python sdk, cli, and mcp server for semble (network.cosmik.* on atproto) — mirror of tangled.org/zzstoatzz.io/semble
+   - https://github.com/zzstoatzz/semble
+   - query: mcp server
+95. **pozetongun/whatsapp-claude** ★0 `JavaScript`
+   - WhatsApp MCP server for Claude Code & claude.ai — Baileys-based daemon with REST API and MCP SSE endpoint
+   - https://github.com/pozetongun/whatsapp-claude
+   - query: mcp server
+96. **maitreyagupta07/ai-security-simulator** ★0 `HTML`
+   - 
+   - https://github.com/maitreyagupta07/ai-security-simulator
+   - query: ai security
+97. **jash-jash/Real-Time-AI-Security-System** ★0 `Python`
+   - 
+   - https://github.com/jash-jash/Real-Time-AI-Security-System
+   - query: ai security
+98. **mojtabamopi56-stack/instagram-dl-bot** ★0 `JavaScript`
+   - Telegram bot to download Instagram videos and audio
+   - https://github.com/mojtabamopi56-stack/instagram-dl-bot
+   - query: telegram bot
+99. **lnp2pBot/bot** ★288 `TypeScript`
+   - Peer-to-peer lightning network telegram bot
+   - https://github.com/lnp2pBot/bot
+   - query: telegram bot
+100. **dohar097-blip/Telegram-bot** ★0 `Python`
+   - Help for me 
+   - https://github.com/dohar097-blip/Telegram-bot
+   - query: telegram bot
