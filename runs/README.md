@@ -1,15 +1,16 @@
 # MiMo detailed run artifacts — 2026-06-14
 
-Updated: 2026-06-14 00:00:01
+Updated: 2026-06-14 00:30:01
 
-- Run artifacts today: 0
-- GitHub learning samples: 24667
+- Run artifacts today: 1
+- GitHub learning samples: 24672
 - Strategy: profit actions first; learning summaries are kept for direction discovery but full details live in GitHub, not Obsidian.
 - Profit offer: https://1993921.xyz/mimo-ai-delivery-factory/offers/lead-cleaning-whatsapp/
 - Public dashboard: https://1993921.xyz/mimo-ai-delivery-factory/dashboard/
 
 ## Latest run artifacts
 
+- `20260614-000001-profit-only-actions.md` → [runs/2026-06-14/20260614-000001-profit-only-actions.md](2026-06-14/20260614-000001-profit-only-actions.md)
 - `20260613-232702-wechat-money-signals.md` (server only / previous day)
 - `20260613-233002-profit-only-actions.md` (server only / previous day)
 - `20260613-231302-growth-landing-batch.md` (server only / previous day)
@@ -59,7 +60,10 @@ Updated: 2026-06-14 00:00:01
 - `20260613-191013-profit-only-actions.md` (server only / previous day)
 - `20260613-190837-profit-only-actions.md` (server only / previous day)
 - `20260613-190701-profit-only-actions.md` (server only / previous day)
-- `20260613-190002-profit-only-actions.md` (server only / previous day)
 
 ## Latest discovery files
 
+- `20260614-000001-profit-prospects.csv` → [discovery/2026-06-14/20260614-000001-profit-prospects.csv](../discovery/2026-06-14/20260614-000001-profit-prospects.csv)
+- `20260614-000014-github-learning-batch.md` → [discovery/2026-06-14/20260614-000014-github-learning-batch.md](../discovery/2026-06-14/20260614-000014-github-learning-batch.md)
+- `20260614-000001-profit-prospects.jsonl` → [discovery/2026-06-14/20260614-000001-profit-prospects.jsonl](../discovery/2026-06-14/20260614-000001-profit-prospects.jsonl)
+- `20260614-002013-github-learning-batch.md` → [discovery/2026-06-14/20260614-002013-github-learning-batch.md](../discovery/2026-06-14/20260614-002013-github-learning-batch.md)
