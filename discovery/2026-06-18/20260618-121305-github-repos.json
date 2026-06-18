@@ -1,0 +1,578 @@
+[
+  {
+    "full_name": "MorrisLu-Taipei/TigerAI-Code2n8n-Skill-Pack",
+    "html_url": "https://github.com/MorrisLu-Taipei/TigerAI-Code2n8n-Skill-Pack",
+    "description": "Build enterprise-grade n8n workflows using natural language sticky notes: An AI engine that transforms simple human intent into complete, documented three-layer automation systems.",
+    "language": "JavaScript",
+    "stars": 73,
+    "forks": 18,
+    "updated_at": "2026-06-18T03:37:04Z",
+    "topics": []
+  },
+  {
+    "full_name": "uhstray-io/agent-cloud",
+    "html_url": "https://github.com/uhstray-io/agent-cloud",
+    "description": "Privacy focused Open-source AI, Platforms, and Automation driven business-in-a-box. Designed for small business and startups.",
+    "language": "Shell",
+    "stars": 7,
+    "forks": 1,
+    "updated_at": "2026-06-17T02:12:23Z",
+    "topics": [
+      "agentic-ai",
+      "artificial-intelligence",
+      "automation",
+      "business",
+      "deployment",
+      "development",
+      "education",
+      "golang",
+      "llm",
+      "machine-learning",
+      "practices",
+      "processes",
+      "project-management",
+      "python",
+      "research",
+      "resource-management"
+    ]
+  },
+  {
+    "full_name": "RunAnyDev/runany",
+    "html_url": "https://github.com/RunAnyDev/runany",
+    "description": "Open-source Astro MDX tech blog for AI setup guides, local LLMs, Ollama, developer tools, self-hosted tutorials, and automation workflows",
+    "language": "MDX",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-18T04:06:59Z",
+    "topics": [
+      "ai",
+      "ai-tools",
+      "astro",
+      "automation",
+      "blog",
+      "developer-tools",
+      "fastify",
+      "llm",
+      "local-llm",
+      "mdx",
+      "ollama",
+      "openwebui",
+      "self-hosted",
+      "tech-blog",
+      "tutorials",
+      "typescript"
+    ]
+  },
+  {
+    "full_name": "lingyun1010/ecommerce-rag-agent",
+    "html_url": "https://github.com/lingyun1010/ecommerce-rag-agent",
+    "description": "AI-powered ecommerce customer support agent using RAG, tool calling, FastAPI, and a lightweight frontend.",
+    "language": "Python",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-18T03:09:44Z",
+    "topics": [
+      "ai-agent",
+      "customer-support",
+      "ecommerce",
+      "fastapi",
+      "llamaindex",
+      "openai",
+      "rag",
+      "tool-calling",
+      "vector-search"
+    ]
+  },
+  {
+    "full_name": "mgks/automation-hub",
+    "html_url": "https://github.com/mgks/automation-hub",
+    "description": "The largest searchable directory of community n8n workflows. A fully automated, self-updating static site.",
+    "language": "JavaScript",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-18T00:54:56Z",
+    "topics": [
+      "ai",
+      "json",
+      "n8n",
+      "n8n-automation",
+      "openclaw",
+      "openclaw-skills",
+      "workflows"
+    ]
+  },
+  {
+    "full_name": "Hinojosa12/Full-featured-cleaning-business-website-with-booking-system-n8n-webhook-automation-and-built-in-CRM",
+    "html_url": "https://github.com/Hinojosa12/Full-featured-cleaning-business-website-with-booking-system-n8n-webhook-automation-and-built-in-CRM",
+    "description": "Livity Cleaning",
+    "language": "JavaScript",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-17T23:54:27Z",
+    "topics": []
+  },
+  {
+    "full_name": "sarastrist-crypto/cobbled-works",
+    "html_url": "https://github.com/sarastrist-crypto/cobbled-works",
+    "description": "This is the business name of my organization, which supports small businesses in need of AI automation.",
+    "language": "HTML",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-17T22:46:27Z",
+    "topics": []
+  },
+  {
+    "full_name": "iamHaneef/ai-chat-agent",
+    "html_url": "https://github.com/iamHaneef/ai-chat-agent",
+    "description": "A scalable conversational AI platform built with React and n8n, designed for workflow automation, AI-powered interactions, and extensible integrations.",
+    "language": "JavaScript",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-17T14:26:18Z",
+    "topics": [
+      "ai-assistant",
+      "api-integration",
+      "automation",
+      "n8n",
+      "react"
+    ]
+  },
+  {
+    "full_name": "parvizans/AI-Automation-NZ",
+    "html_url": "https://github.com/parvizans/AI-Automation-NZ",
+    "description": "Help Small Businesses in NZ to grow as fast as AI , New Website development, make exciting websites bugs free & make anything hard automated  for client convenience.",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T04:10:32Z",
+    "topics": []
+  },
+  {
+    "full_name": "Bl4ut0/Report-Card-Enhancements",
+    "html_url": "https://github.com/Bl4ut0/Report-Card-Enhancements",
+    "description": "Performance, security, and automation enhancements for WoW CLA & RPB Google Sheets. Features a Warcraft Logs V2 GraphQL compatibility wrapper, client-side rate-limit pacing, unified Discord/WCL proxy relays (Cloudflare Worker & self-hosted Docker), and n8n orchestration patches.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T04:08:45Z",
+    "topics": []
+  },
+  {
+    "full_name": "Irfan1911/ridge-lead-intelligence-platform",
+    "html_url": "https://github.com/Irfan1911/ridge-lead-intelligence-platform",
+    "description": "RIDGE is a lead generation tool that converts a Google Maps search into a spreadsheet of companies with contact emails extracted automatically from their websites. Paste a search URL, get a contact-ready spreadsheet delivered to your inbox with no login & no setup..",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T04:07:22Z",
+    "topics": [
+      "automation",
+      "business-intelligence",
+      "google-maps",
+      "javascript",
+      "lead-generation",
+      "n8n",
+      "prospecting",
+      "web-app"
+    ]
+  },
+  {
+    "full_name": "SHENG5411/grimoire-of-tools",
+    "html_url": "https://github.com/SHENG5411/grimoire-of-tools",
+    "description": "Ultimate AI Spellbook Workflows 2026 – Build Multi-Platform Skills & Automation",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T04:03:41Z",
+    "topics": [
+      "ai-assistant",
+      "ai-coding",
+      "claude",
+      "cli",
+      "codex",
+      "developer-tools",
+      "gemini-cli",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "opencode",
+      "prompt-engineering",
+      "python",
+      "skills",
+      "spellbook"
+    ]
+  },
+  {
+    "full_name": "abdelkarim1976/unity-reflect-toolkit",
+    "html_url": "https://github.com/abdelkarim1976/unity-reflect-toolkit",
+    "description": "Unity Reflect Pro 2026: Workflow Automation & Scene Optimization Guide",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T03:45:05Z",
+    "topics": [
+      "unity",
+      "unity-download",
+      "unity-install",
+      "unity-key",
+      "unity-patch",
+      "unity-reflect",
+      "unity-reflect-download",
+      "unity-reflect-install",
+      "unity-reflect-key",
+      "unity-reflect-patch",
+      "unity-reflect-software",
+      "unity-reflect-trial",
+      "unity-software",
+      "unity-trial"
+    ]
+  },
+  {
+    "full_name": "jestersanjay/slim-tools-claude-harness",
+    "html_url": "https://github.com/jestersanjay/slim-tools-claude-harness",
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T03:39:29Z",
+    "topics": [
+      "ai",
+      "claude-code",
+      "claude-plugin",
+      "llm",
+      "markdown",
+      "prompt-engineering",
+      "slim",
+      "token-efficiency"
+    ]
+  },
+  {
+    "full_name": "alolle/Softomotive-Unofficial-Patchwork",
+    "html_url": "https://github.com/alolle/Softomotive-Unofficial-Patchwork",
+    "description": "Softomotive Professional Automation Suite 2026 – Secure Workflow Tool",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T03:35:23Z",
+    "topics": [
+      "softomotive",
+      "softomotive-download",
+      "softomotive-install",
+      "softomotive-key",
+      "softomotive-patch",
+      "softomotive-software",
+      "softomotive-trial"
+    ]
+  },
+  {
+    "full_name": "chadthomas31/stackconsultingai-com",
+    "html_url": "https://github.com/chadthomas31/stackconsultingai-com",
+    "description": "AI-powered web development and automation consulting for small to medium businesses in South Orange County. Building modern websites and business systems with Next.js, TypeScript, and Supabase.",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T03:31:39Z",
+    "topics": []
+  },
+  {
+    "full_name": "lightning-it/container-ee-wunder-ansible-ubi9",
+    "html_url": "https://github.com/lightning-it/container-ee-wunder-ansible-ubi9",
+    "description": "Ansible Execution Environment (UBI 9) for Wunder automation - prebuilt tooling for repeatable Ansible runs, linting, and infrastructure workflows.",
+    "language": "Dockerfile",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T03:20:22Z",
+    "topics": [
+      "lit-modulix"
+    ]
+  },
+  {
+    "full_name": "igpriyanshunegi/auto-backup-file-organizer",
+    "html_url": "https://github.com/igpriyanshunegi/auto-backup-file-organizer",
+    "description": "Built a Python automation tool that organizes files into categorized folders by type and creates timestamped backups. Implemented dry-run mode, duplicate-safe handling, and action logging — reducing manual file management effort for IT support workflows.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T03:10:33Z",
+    "topics": []
+  },
+  {
+    "full_name": "Abhinav-kanduri/Customer-chat-front-end-Ui",
+    "html_url": "https://github.com/Abhinav-kanduri/Customer-chat-front-end-Ui",
+    "description": "An end-to-end AI system design for a customer support chatbot built for SaaS or e-commerce support teams. The chatbot understands customer messages, classifies intent, retrieves company-specific knowledge, answers with citations, calls business tools, creates support tickets, and escalates risky or unresolved cases to humans",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T03:04:11Z",
+    "topics": []
+  },
+  {
+    "full_name": "mimakhdumiiitm/TDS-GA3-Q4-Daily-Commits",
+    "html_url": "https://github.com/mimakhdumiiitm/TDS-GA3-Q4-Daily-Commits",
+    "description": "This is the repository for Question 04 of Graded Assignment 3 for the subject Tools and Data Science (TDS). This question deals with creating a scheduled GitHub Action workflow that runs daily, adds automated commits for activity tracking and documentation, and demonstrates cron scheduling, git automation, and workflow testing.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T02:58:58Z",
+    "topics": []
+  },
+  {
+    "full_name": "MWolf10925/portfolio",
+    "html_url": "https://github.com/MWolf10925/portfolio",
+    "description": "Personal portfolio — robotics software, automation tools, and practical AI workflows. Next.js + TypeScript + Tailwind.",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T02:46:25Z",
+    "topics": []
+  },
+  {
+    "full_name": "Andersonfrfilho/sakura-bot-oficial",
+    "html_url": "https://github.com/Andersonfrfilho/sakura-bot-oficial",
+    "description": "WhatsApp automation bot using Meta Cloud API (official) — n8n + Typebot + Chatwoot + PostgreSQL",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T02:44:03Z",
+    "topics": []
+  },
+  {
+    "full_name": "JHStudio-dev/DWS-AutoPublisher",
+    "html_url": "https://github.com/JHStudio-dev/DWS-AutoPublisher",
+    "description": "DWS AutoPublisher is a modern publication automation platform built to centralize vehicle management, streamline publishing workflows, and provide a scalable foundation for future business automation tools.",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T02:41:08Z",
+    "topics": []
+  },
+  {
+    "full_name": "hsteven2008/leadflow-automation",
+    "html_url": "https://github.com/hsteven2008/leadflow-automation",
+    "description": "AI-powered lead tracking and follow-up automation website for small businesses",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T01:55:09Z",
+    "topics": []
+  },
+  {
+    "full_name": "SiriusKaizen/mcp-flowforge",
+    "html_url": "https://github.com/SiriusKaizen/mcp-flowforge",
+    "description": "Safe starter templates for n8n and MCP webhook flows",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T01:39:20Z",
+    "topics": [
+      "automation",
+      "mcp",
+      "n8n",
+      "webhooks",
+      "workflow"
+    ]
+  },
+  {
+    "full_name": "laureennicholson635/LearningAIwithLaureen",
+    "html_url": "https://github.com/laureennicholson635/LearningAIwithLaureen",
+    "description": "AI Business Integration - AI automation consulting for small businesses. ChatGPT, Copilot, Power Automate, Claude AI.",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T01:14:47Z",
+    "topics": []
+  },
+  {
+    "full_name": "aftab76/researcher-tracker",
+    "html_url": "https://github.com/aftab76/researcher-tracker",
+    "description": "Scout Pro 2026: AI-Powered Lead Generation & CRM Automation Tool",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-18T00:08:59Z",
+    "topics": [
+      "anthropic",
+      "b2b",
+      "claude-code",
+      "claude-plugin",
+      "coworker",
+      "demo",
+      "ellypsis",
+      "research",
+      "sheets"
+    ]
+  },
+  {
+    "full_name": "Ayiiga/Giga3-v2",
+    "html_url": "https://github.com/Ayiiga/Giga3-v2",
+    "description": "Giga3 AI is an AI platform focused on helping businesses and developers use smarter automation—ranging from enterprise voice/customer support agents to codebase context tools that improve AI coding accuracy. Its core strength is giving AI better context so it can solve complex tasks faster, with fewer mistakes.",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T23:58:23Z",
+    "topics": []
+  },
+  {
+    "full_name": "HunterSpence/refund-agent",
+    "html_url": "https://github.com/HunterSpence/refund-agent",
+    "description": "AI customer-support agent that approves, denies, or escalates e-commerce refunds — one tool-calling agent core, two frontends (chat + voice), live reasoning dashboard.",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T23:08:31Z",
+    "topics": []
+  },
+  {
+    "full_name": "ramifahim-glitch/leadflow",
+    "html_url": "https://github.com/ramifahim-glitch/leadflow",
+    "description": "AI-powered B2B lead generation and outreach automation — Clay, Maildoso, Instantly, Apollo, HubSpot, Heyreach",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T22:49:43Z",
+    "topics": []
+  },
+  {
+    "full_name": "ColeAvery-sys/avery-advisory",
+    "html_url": "https://github.com/ColeAvery-sys/avery-advisory",
+    "description": "Avery Advisory business website for automation, consulting, operations, and lead generation.",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T22:05:15Z",
+    "topics": []
+  },
+  {
+    "full_name": "Hakiller777/upwork-ai-automation-portfolio",
+    "html_url": "https://github.com/Hakiller777/upwork-ai-automation-portfolio",
+    "description": "Production-ready AI automation workflows: lead generation, RAG chatbots & document processing. Built with n8n, Python and Claude.",
+    "language": "Dockerfile",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T20:51:35Z",
+    "topics": []
+  },
+  {
+    "full_name": "ncreighton/ffa65710-linkedin-lead-generation-and-c",
+    "html_url": "https://github.com/ncreighton/ffa65710-linkedin-lead-generation-and-c",
+    "description": "Auto-sync LinkedIn leads to your CRM in real-time with this N8N workflow. Stop manual data entry, eliminate duplicates, close deals faster.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T17:14:59Z",
+    "topics": [
+      "automation",
+      "crm",
+      "generation",
+      "integration",
+      "lead",
+      "lead-generation",
+      "linkedin",
+      "linkedin-lead",
+      "n8n",
+      "no-code",
+      "sales",
+      "sync",
+      "workflow"
+    ]
+  },
+  {
+    "full_name": "engineer-malaika-rajput/Google-Maps-Lead-Generation-Automation-using-n8n",
+    "html_url": "https://github.com/engineer-malaika-rajput/Google-Maps-Lead-Generation-Automation-using-n8n",
+    "description": "Built an automated lead generation workflow in n8n that extracts business data from Google Maps using RapidAPI.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T17:10:07Z",
+    "topics": []
+  },
+  {
+    "full_name": "tanishsaini626-prog/doctor-bot-audio",
+    "html_url": "https://github.com/tanishsaini626-prog/doctor-bot-audio",
+    "description": "AI-powered Hindi voice bot that books doctor appointments over real phone calls using Twilio, Sarvam AI, and n8n",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T17:03:55Z",
+    "topics": [
+      "ai",
+      "automation",
+      "hindi",
+      "india",
+      "n8n",
+      "nlp",
+      "twilio",
+      "voice-bot"
+    ]
+  },
+  {
+    "full_name": "FaisalKhan444/Real-Estate-Lead-Generation-Automation",
+    "html_url": "https://github.com/FaisalKhan444/Real-Estate-Lead-Generation-Automation",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T16:18:29Z",
+    "topics": []
+  },
+  {
+    "full_name": "ncreighton/6971e335-qa-testing-automation-lead-g",
+    "html_url": "https://github.com/ncreighton/6971e335-qa-testing-automation-lead-g",
+    "description": "Automatically capture leads from your testing workflows with a smart form builder that reacts to test outcomes.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T16:02:59Z",
+    "topics": [
+      "automation",
+      "cms",
+      "generation",
+      "lead",
+      "php",
+      "testing",
+      "wordpress",
+      "wordpress-plugin"
+    ]
+  },
+  {
+    "full_name": "ncreighton/b430fac8-dental-practice-management-lea",
+    "html_url": "https://github.com/ncreighton/b430fac8-dental-practice-management-lea",
+    "description": "WordPress form builder designed for dental practices. Capture, qualify, and automate patient leads with HIPAA-compliant automation—$29.99.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T15:49:53Z",
+    "topics": [
+      "cms",
+      "dental",
+      "form",
+      "generation",
+      "lead",
+      "management",
+      "php",
+      "practice",
+      "wordpress",
+      "wordpress-plugin"
+    ]
+  },
+  {
+    "full_name": "candelabarletti/support-triage-agent",
+    "html_url": "https://github.com/candelabarletti/support-triage-agent",
+    "description": "AI agent that triages customer support tickets using RAG and Claude tool-calling — retrieves relevant policies, classifies urgency/sentiment, and decides to auto-resolve or escalate. Built with FastAPI and SQLite.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T15:33:27Z",
+    "topics": []
+  },
+  {
+    "full_name": "Anwaarhere27/AI-Customer-Support-Agent",
+    "html_url": "https://github.com/Anwaarhere27/AI-Customer-Support-Agent",
+    "description": "The system combines conversational AI, long-term memory, knowledge retrieval, and tool calling to simulate a real-world customer support assistant capable of handling billing inquiries, account questions, support tickets, and policy-related requests.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-17T15:22:50Z",
+    "topics": []
+  }
+]
