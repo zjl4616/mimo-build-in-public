@@ -1,0 +1,573 @@
+[
+  {
+    "full_name": "joewinke/jat",
+    "html_url": "https://github.com/joewinke/jat",
+    "description": "  The World's First Agentic IDE. Visual dashboard: live sessions, task management, code editor, terminal. Epic Swarm parallel workflows. Auto-proceed rules. Automation patterns. Beads + Agent Mail + 50 bash tools. Supervise 20+ agents from one UI.",
+    "language": "Svelte",
+    "stars": 244,
+    "forks": 26,
+    "updated_at": "2026-06-20T10:54:25Z",
+    "topics": [
+      "agent-coordination",
+      "agent-mail",
+      "agent-orchestration",
+      "agent-swarm",
+      "ai",
+      "ai-agents",
+      "ai-development",
+      "anthropic-mcp",
+      "bash-tools",
+      "beads",
+      "claude-code",
+      "codex",
+      "context-management",
+      "developer-tools",
+      "llm-tools",
+      "multi-agent-systems",
+      "opencode",
+      "task-orchestration"
+    ]
+  },
+  {
+    "full_name": "DininduAkalanka/Smart-Textile-Business-Management-E-Commerce-Platform-with-AI-Intelligence",
+    "html_url": "https://github.com/DininduAkalanka/Smart-Textile-Business-Management-E-Commerce-Platform-with-AI-Intelligence",
+    "description": "This project aims to develop an integrated, intelligent business management system for a textile and uniform manufacturing business. The system combines customer-facing e-commerce capabilities with comprehensive backend business management tools, enhanced by artificial intelligence for predictive analytics and automated decision support.",
+    "language": "TypeScript",
+    "stars": 2,
+    "forks": 0,
+    "updated_at": "2026-06-20T09:16:25Z",
+    "topics": []
+  },
+  {
+    "full_name": "batecn/MacroAI",
+    "html_url": "https://github.com/batecn/MacroAI",
+    "description": "MacroAI is a Windows desktop macro automation tool. You can create automated workflows for mouse clicks, keyboard input, image recognition, OCR text recognition, screen change detection, and more through action recording, visual node editing, or Lua scripting/",
+    "language": "HTML",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-20T11:05:41Z",
+    "topics": []
+  },
+  {
+    "full_name": "CassieMarie0728/mcp-hub",
+    "html_url": "https://github.com/CassieMarie0728/mcp-hub",
+    "description": "Mobile-first MCP control center for server connections, tool discovery, execution, history, macros, and automation workflows.",
+    "language": "TypeScript",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-20T10:59:29Z",
+    "topics": [
+      "agent-tools",
+      "automation",
+      "cross-platform",
+      "dashboard",
+      "developer-tools",
+      "drizzle-orm",
+      "expo",
+      "expo-router",
+      "express",
+      "mcp",
+      "mobile-app",
+      "model-context-protocol",
+      "mysql",
+      "nativewind",
+      "react-native",
+      "tailwind-css",
+      "tooling",
+      "trpc",
+      "typescript",
+      "workflow-automation"
+    ]
+  },
+  {
+    "full_name": "Senseiglobal/creative-studio-mcp",
+    "html_url": "https://github.com/Senseiglobal/creative-studio-mcp",
+    "description": "AI business assistant for creative studios, freelancers, agencies, and small businesses.",
+    "language": "Batchfile",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-20T10:55:30Z",
+    "topics": [
+      "ai",
+      "automation",
+      "business",
+      "chatgpt",
+      "claude",
+      "creative",
+      "freelancing",
+      "mcp",
+      "open-source",
+      "python",
+      "quotes",
+      "small",
+      "small-business",
+      "studio"
+    ]
+  },
+  {
+    "full_name": "Kanakhinge05/Bulk_Mail_Sender",
+    "html_url": "https://github.com/Kanakhinge05/Bulk_Mail_Sender",
+    "description": "SmartMail Sender is a Python-based email automation tool that sends emails programmatically using SMTP, designed to reduce manual effort and simulate real-world DevOps notification workflows. This project is inspired by real-world DevOps practices where automated notifications are critical for efficient system operations.",
+    "language": "Python",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-20T10:20:36Z",
+    "topics": []
+  },
+  {
+    "full_name": "rohit-arabale/AI-Customer-Support-System",
+    "html_url": "https://github.com/rohit-arabale/AI-Customer-Support-System",
+    "description": "AI-powered customer support with multi-agent architecture, built by Rohit Arabale. A router agent classifies queries and delegates to specialized sub-agents (Support, Order, Billing) with database tool access.",
+    "language": "TypeScript",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-20T08:13:22Z",
+    "topics": []
+  },
+  {
+    "full_name": "Floridadoll1313/ocean-wave-ui",
+    "html_url": "https://github.com/Floridadoll1313/ocean-wave-ui",
+    "description": "🌊 Helping businesses grow with AI. 🏄 AI Assistants • Automations • Lead Generation • Customer Onboarding • Marketing Systems. Turn your business into a 24/7 sales machine. DM \"SURF\" to get started! 🚀",
+    "language": "",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-20T03:53:54Z",
+    "topics": []
+  },
+  {
+    "full_name": "sarastrist-crypto/cobbled-works",
+    "html_url": "https://github.com/sarastrist-crypto/cobbled-works",
+    "description": "This is the business name of my organization, which supports small businesses in need of AI automation.",
+    "language": "HTML",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-20T02:45:25Z",
+    "topics": []
+  },
+  {
+    "full_name": "mgks/automation-hub",
+    "html_url": "https://github.com/mgks/automation-hub",
+    "description": "The largest searchable directory of community n8n workflows. A fully automated, self-updating static site.",
+    "language": "JavaScript",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-20T00:50:07Z",
+    "topics": [
+      "ai",
+      "json",
+      "n8n",
+      "n8n-automation",
+      "openclaw",
+      "openclaw-skills",
+      "workflows"
+    ]
+  },
+  {
+    "full_name": "anu007lko/linkedin_pr_agent",
+    "html_url": "https://github.com/anu007lko/linkedin_pr_agent",
+    "description": "Autonomous AI PR & Lead Generation Agent stack running on Google Cloud VM. Integrates LinkedIn UGC API, Groq (Llama-3.3-70b), Unsplash, Hunter.io, Snov.io, and Prospeo.",
+    "language": "Python",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-19T16:14:21Z",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "google-cloud",
+      "groq",
+      "hunter-io",
+      "lead-generation",
+      "linkedin-api",
+      "prospeo",
+      "python-agent",
+      "saas",
+      "snov-io",
+      "unsplash-api"
+    ]
+  },
+  {
+    "full_name": "AmanSahani5609/zapier-toolkit-unlocker",
+    "html_url": "https://github.com/AmanSahani5609/zapier-toolkit-unlocker",
+    "description": "Zapier Automation Tool Lifetime Access 2026 – Seamless Workflow Integration",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T11:09:48Z",
+    "topics": [
+      "zapier",
+      "zapier-download",
+      "zapier-install",
+      "zapier-key",
+      "zapier-patch",
+      "zapier-software",
+      "zapier-trial"
+    ]
+  },
+  {
+    "full_name": "aftab76/researcher-tracker",
+    "html_url": "https://github.com/aftab76/researcher-tracker",
+    "description": "Scout Pro 2026: AI-Powered Lead Generation & CRM Automation Tool",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T11:09:36Z",
+    "topics": [
+      "anthropic",
+      "b2b",
+      "claude-code",
+      "claude-plugin",
+      "coworker",
+      "demo",
+      "ellypsis",
+      "research",
+      "sheets"
+    ]
+  },
+  {
+    "full_name": "Khalid147-alt/customer-support-agents",
+    "html_url": "https://github.com/Khalid147-alt/customer-support-agents",
+    "description": "Production-shaped agentic AI support system — LangGraph routing, RAG + ChromaDB, MCP tools, SSE streaming, Postgres, Docker",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T11:09:18Z",
+    "topics": [
+      "chromadb",
+      "docker",
+      "fastapi",
+      "gemini",
+      "langchain",
+      "langgraph",
+      "mcp",
+      "multi-agent",
+      "python",
+      "rag",
+      "react"
+    ]
+  },
+  {
+    "full_name": "KiBrueg/n8njobradar",
+    "html_url": "https://github.com/KiBrueg/n8njobradar",
+    "description": "JobRadar automation -- n8n flows, prompts, DB schema",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T11:02:04Z",
+    "topics": []
+  },
+  {
+    "full_name": "syedaayanurrehman26-ctrl/wat-framework",
+    "html_url": "https://github.com/syedaayanurrehman26-ctrl/wat-framework",
+    "description": "AI workflow automation using the WAT pattern (Workflows → Agents → Tools). Currently includes a newsletter generator that researches any topic, extracts live brand colors, and creates a formatted Gmail draft. 100% free — powered by Groq AI.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T10:56:56Z",
+    "topics": []
+  },
+  {
+    "full_name": "anup4khandelwal/hn-action",
+    "html_url": "https://github.com/anup4khandelwal/hn-action",
+    "description": "GitHub Actions automation experiments and workflow tooling for developer ops.",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T10:56:34Z",
+    "topics": [
+      "automation",
+      "ci-cd",
+      "developer-tools",
+      "github-actions",
+      "typescript"
+    ]
+  },
+  {
+    "full_name": "MohaAarab/projects-collection",
+    "html_url": "https://github.com/MohaAarab/projects-collection",
+    "description": "A curated collection of reusable automation projects (n8n workflows, Docker setups, PHP scripts, Python tools) built for clients across industries. All anonymized with serial IDs (AUT-001, DOC-001, etc.) and MIT-licensed for free reuse. Perfect for automation consultants, developers, and anyone tackling similar challenges.",
+    "language": "PLpgSQL",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T10:54:09Z",
+    "topics": []
+  },
+  {
+    "full_name": "aashamandal167-cloud/ai-agent-",
+    "html_url": "https://github.com/aashamandal167-cloud/ai-agent-",
+    "description": "AI-powered business automation agent for lead generation, outreach, and sales",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T10:53:26Z",
+    "topics": []
+  },
+  {
+    "full_name": "Rezydenbmf/bc-automation-portfolio",
+    "html_url": "https://github.com/Rezydenbmf/bc-automation-portfolio",
+    "description": "Sanitized Python desktop automation portfolio project showing modular workflow automation, data validation and operator tooling.",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T10:42:14Z",
+    "topics": [
+      "ai-automation",
+      "automation",
+      "data-validation",
+      "desktop-automation",
+      "nodejs",
+      "openai",
+      "playwright",
+      "portfolio-project",
+      "python",
+      "typescript",
+      "workflow-automation"
+    ]
+  },
+  {
+    "full_name": "catwilo/unix-toolkit",
+    "html_url": "https://github.com/catwilo/unix-toolkit",
+    "description": "Collection of Unix shell tools and automation scripts for macOS and Linux — built for real workflows.",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T10:40:22Z",
+    "topics": []
+  },
+  {
+    "full_name": "Nicole-LinktotheCloud/contractor-ops-twin-",
+    "html_url": "https://github.com/Nicole-LinktotheCloud/contractor-ops-twin-",
+    "description": "Self-hosted AI project management and AP automation for small construction businesses. Autonomous agent reads invoices, maintains projects, surfaces job visibility. Contractor-owned, no lock-in. Twenty CRM + OpenClaw + Postgres.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T10:33:11Z",
+    "topics": []
+  },
+  {
+    "full_name": "Rkgorai/ai_refund_assistant",
+    "html_url": "https://github.com/Rkgorai/ai_refund_assistant",
+    "description": "AI-powered customer support agent that autonomously processes e-commerce refund requests using LangGraph, policy validation tools, and real-time reasoning traces.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T10:21:10Z",
+    "topics": []
+  },
+  {
+    "full_name": "AshishGodhaniya001/cyber-saffron-ai-agents",
+    "html_url": "https://github.com/AshishGodhaniya001/cyber-saffron-ai-agents",
+    "description": "FastAPI multi-agent lead generation and sales automation system powered by Gemini AI, PostgreSQL, Redis, and Docker.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T09:50:44Z",
+    "topics": [
+      "ai-agents",
+      "docker",
+      "fastapi",
+      "gemini-ai",
+      "postgresql",
+      "python",
+      "redis"
+    ]
+  },
+  {
+    "full_name": "Tony75546885/lead-pipeline",
+    "html_url": "https://github.com/Tony75546885/lead-pipeline",
+    "description": "Automated lead generation pipeline — scrapes, enriches, scores & delivers prospects via email. Built with Python.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T08:16:05Z",
+    "topics": [
+      "automation",
+      "email",
+      "lead-generation",
+      "pipeline",
+      "portfolio",
+      "python",
+      "web-scraping"
+    ]
+  },
+  {
+    "full_name": "qirelab/n8n-automations",
+    "html_url": "https://github.com/qirelab/n8n-automations",
+    "description": "",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T07:40:46Z",
+    "topics": []
+  },
+  {
+    "full_name": "tosinbethelmind/lead-generation-automation-v2",
+    "html_url": "https://github.com/tosinbethelmind/lead-generation-automation-v2",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T07:36:44Z",
+    "topics": []
+  },
+  {
+    "full_name": "VikramKavuri/job-outreach-ops",
+    "html_url": "https://github.com/VikramKavuri/job-outreach-ops",
+    "description": "Production-style n8n job outreach automation: validate job inputs, discover contacts, enrich profiles, and create review-ready Gmail drafts.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T06:21:03Z",
+    "topics": [
+      "gemini",
+      "human-in-the-loop",
+      "job-search",
+      "n8n",
+      "workflow-automation"
+    ]
+  },
+  {
+    "full_name": "Prabhath42007/Triggrr",
+    "html_url": "https://github.com/Prabhath42007/Triggrr",
+    "description": "Triggrr is a Python & AI automation agency based in Andhra Pradesh, India. We specialise in building custom automation systems for Indian small and medium-sized businesses — with a focus on e-commerce sellers, sales-driven teams, and businesses handling high volumes of repetitive customer interaction.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T06:18:42Z",
+    "topics": []
+  },
+  {
+    "full_name": "NickCirv/claude-webhook",
+    "html_url": "https://github.com/NickCirv/claude-webhook",
+    "description": "HTTP server that triggers Claude Code tasks from Slack, GitHub CI, n8n, and Zapier webhooks",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T05:09:57Z",
+    "topics": [
+      "automation",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "integration",
+      "open-source",
+      "webhook"
+    ]
+  },
+  {
+    "full_name": "Pravesh52/ScanBite",
+    "html_url": "https://github.com/Pravesh52/ScanBite",
+    "description": "ScanBite is a full-stack AI-powered restaurant and canteen management platform that enables customers to scan a QR code, browse the digital menu, place orders, make payments, and receive invoices seamlessly. The system integrates n8n automation to automate order processing, notifications, invoice generation, and business workflows.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T04:35:00Z",
+    "topics": []
+  },
+  {
+    "full_name": "Kauan9196/ecommerce-bulk-extractor",
+    "html_url": "https://github.com/Kauan9196/ecommerce-bulk-extractor",
+    "description": "In-browser bulk web scraping tool using Tampermonkey to bypass anti-bot protections, integrated with an n8n automation pipeline.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T04:08:40Z",
+    "topics": []
+  },
+  {
+    "full_name": "aaronparton2-sketch/surfboard-sniper",
+    "html_url": "https://github.com/aaronparton2-sketch/surfboard-sniper",
+    "description": "Watches Facebook Marketplace for surfboards matching your buy box and pings you the second one lands. n8n + Apify + Supabase. The repo from the video.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T03:02:59Z",
+    "topics": [
+      "apify",
+      "automation",
+      "deal-finder",
+      "facebook-marketplace",
+      "n8n",
+      "supabase",
+      "surfboard",
+      "telegram-bot"
+    ]
+  },
+  {
+    "full_name": "AmanJha69/AI-Invoice-Payment-Reminder-Bot",
+    "html_url": "https://github.com/AmanJha69/AI-Invoice-Payment-Reminder-Bot",
+    "description": "This is my project in which i am making a bot which does the work to remind users about the payments due in their subscription or the plans that they are currently actively using and for this i am using the google gemini api for the AI tasks and n8n for the automation.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T02:50:53Z",
+    "topics": []
+  },
+  {
+    "full_name": "laureennicholson635/LearningAIwithLaureen",
+    "html_url": "https://github.com/laureennicholson635/LearningAIwithLaureen",
+    "description": "AI Business Integration - AI automation consulting for small businesses. ChatGPT, Copilot, Power Automate, Claude AI.",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T02:05:39Z",
+    "topics": []
+  },
+  {
+    "full_name": "GonzaloTerr/n8n-lead-generation",
+    "html_url": "https://github.com/GonzaloTerr/n8n-lead-generation",
+    "description": "Pipeline de captación de leads con IA en n8n: búsqueda, scraping, emails personalizados con Claude, dedup y reporting.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T01:58:22Z",
+    "topics": [
+      "ai",
+      "automation",
+      "claude",
+      "lead-generation",
+      "n8n",
+      "no-code",
+      "web-scraping"
+    ]
+  },
+  {
+    "full_name": "Kratugautam99/n8n-Automations",
+    "html_url": "https://github.com/Kratugautam99/n8n-Automations",
+    "description": "",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T01:37:53Z",
+    "topics": []
+  },
+  {
+    "full_name": "danielrodriguez-sec/direct-ai-website",
+    "html_url": "https://github.com/danielrodriguez-sec/direct-ai-website",
+    "description": "Marketing site and service showcase for Direct AI Automation — AI-driven automation consulting for small businesses.",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-19T22:03:45Z",
+    "topics": []
+  },
+  {
+    "full_name": "aliza456/n8n-lead-generation-automation",
+    "html_url": "https://github.com/aliza456/n8n-lead-generation-automation",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-19T21:27:10Z",
+    "topics": []
+  },
+  {
+    "full_name": "ahiqb/merchantai",
+    "html_url": "https://github.com/ahiqb/merchantai",
+    "description": "AI-powered e-commerce customer support and listing optimization tool using Google Gemini",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-19T21:10:09Z",
+    "topics": []
+  }
+]
