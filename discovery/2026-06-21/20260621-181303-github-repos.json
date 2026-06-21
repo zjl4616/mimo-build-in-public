@@ -1,0 +1,151 @@
+[
+  {
+    "full_name": "aasmaagh/social-media-automation",
+    "html_url": "https://github.com/aasmaagh/social-media-automation",
+    "description": "Social Media Automation é uma solução de automação para redes sociais que utiliza Node.js, Playwright, Redis e n8n para criar fluxos inteligentes com IA, permitindo gerar, agendar e publicar conteúdos automaticamente de forma eficiente e escalável.",
+    "language": "JavaScript",
+    "stars": 7,
+    "forks": 3,
+    "updated_at": "2026-06-21T09:08:50Z",
+    "topics": [
+      "agency",
+      "automation",
+      "electron",
+      "flask",
+      "javascript",
+      "linux",
+      "marketing",
+      "marketing-automation",
+      "nodejs",
+      "python",
+      "sdk",
+      "selenium",
+      "social-media",
+      "wordpress"
+    ]
+  },
+  {
+    "full_name": "iamHaneef/ai-chat-agent",
+    "html_url": "https://github.com/iamHaneef/ai-chat-agent",
+    "description": "A scalable conversational AI platform built with React and n8n, designed for workflow automation, AI-powered interactions, and extensible integrations.",
+    "language": "JavaScript",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-21T06:14:18Z",
+    "topics": [
+      "ai-assistant",
+      "api-integration",
+      "automation",
+      "n8n",
+      "react"
+    ]
+  },
+  {
+    "full_name": "mgks/automation-hub",
+    "html_url": "https://github.com/mgks/automation-hub",
+    "description": "The largest searchable directory of community n8n workflows. A fully automated, self-updating static site.",
+    "language": "JavaScript",
+    "stars": 1,
+    "forks": 0,
+    "updated_at": "2026-06-21T00:55:27Z",
+    "topics": [
+      "ai",
+      "json",
+      "n8n",
+      "n8n-automation",
+      "openclaw",
+      "openclaw-skills",
+      "workflows"
+    ]
+  },
+  {
+    "full_name": "turti369/byteflow-next",
+    "html_url": "https://github.com/turti369/byteflow-next",
+    "description": "n8n Workflow Automation Landing Page - Built with Next.js",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-21T09:50:31Z",
+    "topics": []
+  },
+  {
+    "full_name": "MuhammadSuleman214/Shoes-Brand-WhatsApp-AI-Automation-n8n",
+    "html_url": "https://github.com/MuhammadSuleman214/Shoes-Brand-WhatsApp-AI-Automation-n8n",
+    "description": "Shoes Brand WhatsApp AI Automation (n8n)",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-21T09:04:56Z",
+    "topics": []
+  },
+  {
+    "full_name": "Gyanam1310/whatsapp-automation-n8n-green",
+    "html_url": "https://github.com/Gyanam1310/whatsapp-automation-n8n-green",
+    "description": "",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-21T06:52:45Z",
+    "topics": []
+  },
+  {
+    "full_name": "Pravesh52/ScanBite",
+    "html_url": "https://github.com/Pravesh52/ScanBite",
+    "description": "ScanBite is a full-stack AI-powered restaurant and canteen management platform that enables customers to scan a QR code, browse the digital menu, place orders, make payments, and receive invoices seamlessly. The system integrates n8n automation to automate order processing, notifications, invoice generation, and business workflows.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-21T06:20:42Z",
+    "topics": []
+  },
+  {
+    "full_name": "T4Msy/MSY-ANALYTICS",
+    "html_url": "https://github.com/T4Msy/MSY-ANALYTICS",
+    "description": "Analisador de performance semanal da Ordem Masayoshi. Processa exportações de chat do WhatsApp e gera tabelas de participação e relatórios institucionais com IA (Gemini) via n8n.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-21T04:38:31Z",
+    "topics": [
+      "ai-tools",
+      "analytics",
+      "artificial-intelligence",
+      "automation",
+      "community-management",
+      "css",
+      "dashboard",
+      "data-analysis",
+      "gemini",
+      "github-pages",
+      "html",
+      "javascript",
+      "n8n",
+      "performance-tracker",
+      "report-generator",
+      "web-app",
+      "web-application",
+      "whatsapp",
+      "workflow-automation"
+    ]
+  },
+  {
+    "full_name": "erenhooman31/hoomko-automation-hub",
+    "html_url": "https://github.com/erenhooman31/hoomko-automation-hub",
+    "description": "هاب فارسی اتوماسیون n8n، Webhook و API Integration با React",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T22:38:29Z",
+    "topics": []
+  },
+  {
+    "full_name": "forugh-poormand/telegram-shop-bot-pro",
+    "html_url": "https://github.com/forugh-poormand/telegram-shop-bot-pro",
+    "description": "Telegram e-commerce automation built with n8n, PostgreSQL, Google Sheets, and Telegram Bot API.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "updated_at": "2026-06-20T21:26:47Z",
+    "topics": []
+  }
+]
