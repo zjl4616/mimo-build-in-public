@@ -1,15 +1,24 @@
 # MiMo detailed run artifacts — 2026-06-22
 
-Updated: 2026-06-22 09:00:02
+Updated: 2026-06-22 09:30:01
 
-- Run artifacts today: 23
-- GitHub learning samples: 34650
+- Run artifacts today: 32
+- GitHub learning samples: 34663
 - Strategy: profit actions first; learning summaries are kept for direction discovery but full details live in GitHub, not Obsidian.
 - Profit offer: https://1993921.xyz/mimo-ai-delivery-factory/offers/lead-cleaning-whatsapp/
 - Public dashboard: https://1993921.xyz/mimo-ai-delivery-factory/dashboard/
 
 ## Latest run artifacts
 
+- `20260622-092701-wechat-money-signals.md` → [runs/2026-06-22/20260622-092701-wechat-money-signals.md](2026-06-22/20260622-092701-wechat-money-signals.md)
+- `20260622-091302-growth-landing-batch.md` → [runs/2026-06-22/20260622-091302-growth-landing-batch.md](2026-06-22/20260622-091302-growth-landing-batch.md)
+- `20260622-091302-growth-summary.md` → [runs/2026-06-22/20260622-091302-growth-summary.md](2026-06-22/20260622-091302-growth-summary.md)
+- `20260622-091302-growth-idea-batch.md` → [runs/2026-06-22/20260622-091302-growth-idea-batch.md](2026-06-22/20260622-091302-growth-idea-batch.md)
+- `20260622-091302-growth-market-radar.md` → [runs/2026-06-22/20260622-091302-growth-market-radar.md](2026-06-22/20260622-091302-growth-market-radar.md)
+- `20260622-091013-profit-only-actions.md` → [runs/2026-06-22/20260622-091013-profit-only-actions.md](2026-06-22/20260622-091013-profit-only-actions.md)
+- `20260622-090838-profit-only-actions.md` → [runs/2026-06-22/20260622-090838-profit-only-actions.md](2026-06-22/20260622-090838-profit-only-actions.md)
+- `20260622-090702-profit-only-actions.md` → [runs/2026-06-22/20260622-090702-profit-only-actions.md](2026-06-22/20260622-090702-profit-only-actions.md)
+- `20260622-090002-profit-only-actions.md` → [runs/2026-06-22/20260622-090002-profit-only-actions.md](2026-06-22/20260622-090002-profit-only-actions.md)
 - `20260622-083001-profit-only-actions.md` → [runs/2026-06-22/20260622-083001-profit-only-actions.md](2026-06-22/20260622-083001-profit-only-actions.md)
 - `20260622-082701-wechat-money-signals.md` → [runs/2026-06-22/20260622-082701-wechat-money-signals.md](2026-06-22/20260622-082701-wechat-money-signals.md)
 - `20260622-081302-growth-summary.md` → [runs/2026-06-22/20260622-081302-growth-summary.md](2026-06-22/20260622-081302-growth-summary.md)
@@ -51,15 +60,6 @@ Updated: 2026-06-22 09:00:02
 - `20260621-221302-growth-market-radar.md` (server only / previous day)
 - `20260621-221012-profit-only-actions.md` (server only / previous day)
 - `20260621-220837-profit-only-actions.md` (server only / previous day)
-- `20260621-220701-profit-only-actions.md` (server only / previous day)
-- `20260621-220001-profit-only-actions.md` (server only / previous day)
-- `20260621-212701-wechat-money-signals.md` (server only / previous day)
-- `20260621-213002-profit-only-actions.md` (server only / previous day)
-- `20260621-211302-growth-landing-batch.md` (server only / previous day)
-- `20260621-211302-growth-summary.md` (server only / previous day)
-- `20260621-211302-growth-idea-batch.md` (server only / previous day)
-- `20260621-211302-growth-market-radar.md` (server only / previous day)
-- `20260621-211012-profit-only-actions.md` (server only / previous day)
 
 ## Latest discovery files
 
@@ -72,14 +72,14 @@ Updated: 2026-06-22 09:00:02
 - `20260622-004013-github-learning-batch.md` → [discovery/2026-06-22/20260622-004013-github-learning-batch.md](../discovery/2026-06-22/20260622-004013-github-learning-batch.md)
 - `20260622-010002-profit-prospects.jsonl` → [discovery/2026-06-22/20260622-010002-profit-prospects.jsonl](../discovery/2026-06-22/20260622-010002-profit-prospects.jsonl)
 - `20260622-010002-profit-prospects.csv` → [discovery/2026-06-22/20260622-010002-profit-prospects.csv](../discovery/2026-06-22/20260622-010002-profit-prospects.csv)
-- `20260622-010015-github-learning-batch.md` → [discovery/2026-06-22/20260622-010015-github-learning-batch.md](../discovery/2026-06-22/20260622-010015-github-learning-batch.md)
 - `20260622-012014-github-learning-batch.md` → [discovery/2026-06-22/20260622-012014-github-learning-batch.md](../discovery/2026-06-22/20260622-012014-github-learning-batch.md)
+- `20260622-010015-github-learning-batch.md` → [discovery/2026-06-22/20260622-010015-github-learning-batch.md](../discovery/2026-06-22/20260622-010015-github-learning-batch.md)
 - `20260622-013001-profit-prospects.jsonl` → [discovery/2026-06-22/20260622-013001-profit-prospects.jsonl](../discovery/2026-06-22/20260622-013001-profit-prospects.jsonl)
 - `20260622-014013-github-learning-batch.md` → [discovery/2026-06-22/20260622-014013-github-learning-batch.md](../discovery/2026-06-22/20260622-014013-github-learning-batch.md)
 - `20260622-013001-profit-prospects.csv` → [discovery/2026-06-22/20260622-013001-profit-prospects.csv](../discovery/2026-06-22/20260622-013001-profit-prospects.csv)
 - `20260622-020001-profit-prospects.jsonl` → [discovery/2026-06-22/20260622-020001-profit-prospects.jsonl](../discovery/2026-06-22/20260622-020001-profit-prospects.jsonl)
-- `20260622-020001-profit-prospects.csv` → [discovery/2026-06-22/20260622-020001-profit-prospects.csv](../discovery/2026-06-22/20260622-020001-profit-prospects.csv)
 - `20260622-020014-github-learning-batch.md` → [discovery/2026-06-22/20260622-020014-github-learning-batch.md](../discovery/2026-06-22/20260622-020014-github-learning-batch.md)
+- `20260622-020001-profit-prospects.csv` → [discovery/2026-06-22/20260622-020001-profit-prospects.csv](../discovery/2026-06-22/20260622-020001-profit-prospects.csv)
 - `20260622-022014-github-learning-batch.md` → [discovery/2026-06-22/20260622-022014-github-learning-batch.md](../discovery/2026-06-22/20260622-022014-github-learning-batch.md)
 - `20260622-023001-profit-prospects.jsonl` → [discovery/2026-06-22/20260622-023001-profit-prospects.jsonl](../discovery/2026-06-22/20260622-023001-profit-prospects.jsonl)
 - `20260622-023001-profit-prospects.csv` → [discovery/2026-06-22/20260622-023001-profit-prospects.csv](../discovery/2026-06-22/20260622-023001-profit-prospects.csv)
