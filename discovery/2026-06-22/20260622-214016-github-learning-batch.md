@@ -1,0 +1,408 @@
+# GitHub Learning Batch 20260622-214016
+
+- corpus: `/home/ubuntu/mimo-token-to-cash/discovery/github-learning-corpus.jsonl`
+- total learned metadata: 35077
+- new this run: 20
+
+## 最新项目样本（用于提炼需求/服务/触达）
+
+1. **bemindlabs/bwoc-mcp** ★0 `Rust`
+   - Public MCP server for BWOC — expose a BWOC agent workspace (agents, teams, tasks, memory, run/send/fleet) to any MCP client over stdio or Streamable HTTP.
+   - https://github.com/bemindlabs/bwoc-mcp
+   - query: mcp server
+2. **jordantete/verychic-mcp** ★0 `Python`
+   - Unofficial read-only MCP server for VeryChic hotel offers (search, filter, availability & prices)
+   - https://github.com/jordantete/verychic-mcp
+   - query: mcp server
+3. **joel6603/alloy-mcp-server** ★0 `JavaScript`
+   - 
+   - https://github.com/joel6603/alloy-mcp-server
+   - query: mcp server
+4. **elViRafa/agentic-memory** ★0 `Python`
+   - Agentic memory fabric - MCP server for persistent memory management
+   - https://github.com/elViRafa/agentic-memory
+   - query: mcp server
+5. **markus-tobler/dataverse-cross-environment-mcp** ★0 `TypeScript`
+   - MCP server implementing full OBO OAuth2.0 security to enable cross environment connection in Copilot Studio. Can also be used locally e.g. in VS Code.
+   - https://github.com/markus-tobler/dataverse-cross-environment-mcp
+   - query: mcp server
+6. **antonbabenko/deliberation** ★103 `JavaScript`
+   - Ask Codex, Gemini, Grok, and 400+ OpenRouter models (Qwen, Kimi, DeepSeek) for second opinions or arbiter-mediated consensus. One MCP server for Claude Code, Codex, Cursor, Kiro, OpenCode. Measures which models earn thei
+   - https://github.com/antonbabenko/deliberation
+   - query: mcp server
+7. **Avanquest-Software/avanquest-pdfapi-mcp-server** ★0 `TypeScript`
+   - An MCP server that gives Claude access to PDF manipulation tools
+   - https://github.com/Avanquest-Software/avanquest-pdfapi-mcp-server
+   - query: mcp server
+8. **bstaubersalesforce/ncino-agentforce-workshop** ★1 `Apex`
+   - Hands-on workshop: build the nCino Banking Advisor Agentforce agent against a shared mock MCP server
+   - https://github.com/bstaubersalesforce/ncino-agentforce-workshop
+   - query: mcp server
+9. **arikusi/deepseek-mcp-server** ★15 `TypeScript`
+   - MCP Server for DeepSeek API - enables MCP clients to use DeepSeek Chat and Reasoner models
+   - https://github.com/arikusi/deepseek-mcp-server
+   - query: mcp server
+10. **FGRibreau/mcp-google-ads** ★2 `Rust`
+   - MCP server for Google Ads — full campaign management with safety guardrails
+   - https://github.com/FGRibreau/mcp-google-ads
+   - query: mcp server
+11. **djfollower/unity-index** ★0 `Kotlin`
+   - IDE Index MCP Server for Unity
+   - https://github.com/djfollower/unity-index
+   - query: mcp server
+12. **mattiasgeniar/filament-mcp** ★0 `PHP`
+   - Automatically expose an MCP server for your Filament resources
+   - https://github.com/mattiasgeniar/filament-mcp
+   - query: mcp server
+13. **divulture/convyy-mcp** ★0 `TypeScript`
+   - MCP server for working with Convyy boards from AI clients (Codex, Claude Code)
+   - https://github.com/divulture/convyy-mcp
+   - query: mcp server
+14. **vankobe/ai_security_test** ★0 `HTML`
+   - 
+   - https://github.com/vankobe/ai_security_test
+   - query: ai security
+15. **aminait/rag-chatbot** ★0 ``
+   - For my own learning
+   - https://github.com/aminait/rag-chatbot
+   - query: rag chatbot
+16. **sarathkuttu/RAG-Chatbot** ★0 ``
+   - RAG
+   - https://github.com/sarathkuttu/RAG-Chatbot
+   - query: rag chatbot
+17. **hamzza373/context-Aware-RAG-Chatbot-AI-ML-Knowledge-Base** ★0 ``
+   - 
+   - https://github.com/hamzza373/context-Aware-RAG-Chatbot-AI-ML-Knowledge-Base
+   - query: rag chatbot
+18. **tanmayyenpure/Agentrix** ★0 `TypeScript`
+   - Agentrix is a full-stack workflow automation platform inspired by modern tools like n8n and Zapier. It allows users to build automated workflows visually, monitor executions in real time, and streamline operations throug
+   - https://github.com/tanmayyenpure/Agentrix
+   - query: zapier
+19. **josepalesel/getsales4now** ★0 `TypeScript`
+   - SaaS PWA platform for Digital Marketing & Sales Automation - simplifying CRM, campaigns, social media, funnels, omnichannel support and AI agents for small businesses and entrepreneurs in the US and Latin America. · Buil
+   - https://github.com/josepalesel/getsales4now
+   - query: sales automation
+20. **ImalshaSathsarani/n8n-email-automation** ★0 ``
+   - 
+   - https://github.com/ImalshaSathsarani/n8n-email-automation
+   - query: email automation
+21. **sidan93/claude-eng-loop** ★1 ``
+   - Engineering Loop — a CLAUDE.md workflow template that turns AI coding agents into structured engineers: 9-phase process from task intake to goal verification, with execution modes, escape hatches, and project context sca
+   - https://github.com/sidan93/claude-eng-loop
+   - query: mcp server
+22. **rathishreya/hr-os** ★0 `JavaScript`
+   - HR-OS — AI-native hiring operating system (FastAPI + React). Core hiring loop, pluggable AI, MCP server, and free job-board distribution.
+   - https://github.com/rathishreya/hr-os
+   - query: mcp server
+23. **xx5921/pipecat-mcp-server** ★0 `Python`
+   - 实时语音对话助手mcp
+   - https://github.com/xx5921/pipecat-mcp-server
+   - query: mcp server
+24. **FadedCantCode/Fabrica-STAR** ★1 `TypeScript`
+   - A lightweight, zero-config security scanner for Model Context Protocol (MCP) servers.
+   - https://github.com/FadedCantCode/Fabrica-STAR
+   - query: mcp server
+25. **linxule/lotus-wisdom-mcp** ★28 `TypeScript`
+   - Contemplative reasoning MCP server — Lotus Sutra wisdom framework with interactive ext-apps journey visualization.
+   - https://github.com/linxule/lotus-wisdom-mcp
+   - query: mcp server
+26. **jaccoklouwer/ast-indexer** ★0 `TypeScript`
+   - MCP Server for indexing Git repositories using AST parsing
+   - https://github.com/jaccoklouwer/ast-indexer
+   - query: mcp server
+27. **Annoymous-VE96/MCP-Center** ★0 `Python`
+   - MCP Server tutorial
+   - https://github.com/Annoymous-VE96/MCP-Center
+   - query: mcp server
+28. **youngpada1/stackprep-pro** ★0 `Python`
+   - stackprep as an MCP server — interview & certification prep for any AI client
+   - https://github.com/youngpada1/stackprep-pro
+   - query: mcp server
+29. **Txpple/fvtt-mcp-molten5e** ★0 `TypeScript`
+   - D&D 5e-only, Molten-optimized Foundry VTT MCP server for Claude Code (fork of adambdooley/foundry-vtt-mcp)
+   - https://github.com/Txpple/fvtt-mcp-molten5e
+   - query: mcp server
+30. **Baneado98/npm-guardian** ★0 `TypeScript`
+   - Vet npm packages for supply-chain attacks (typosquatting, malicious install scripts, credential exfiltration) BEFORE npm install. MCP server + pay-per-call x402 API.
+   - https://github.com/Baneado98/npm-guardian
+   - query: mcp server
+31. **Baneado98/import-guardian** ★0 `TypeScript`
+   - Catch AI-hallucinated (slopsquatted) npm imports in generated code before npm install. MCP server + x402 API. Companion to npm-guardian.
+   - https://github.com/Baneado98/import-guardian
+   - query: mcp server
+32. **Baneado98/license-guardian** ★0 `TypeScript`
+   - Audit npm dependency licenses for copyleft/source-available/unlicensed conflicts before you ship. MCP server + x402 pay-per-call API.
+   - https://github.com/Baneado98/license-guardian
+   - query: mcp server
+33. **kuyen-labs/mcp_server** ★0 `TypeScript`
+   - 
+   - https://github.com/kuyen-labs/mcp_server
+   - query: mcp server
+34. **MetaStudy999/generative-ai-security** ★0 `HTML`
+   - 
+   - https://github.com/MetaStudy999/generative-ai-security
+   - query: ai security
+35. **jagadeshwaranparthiban/RAG_CHATBOT** ★0 `JavaScript`
+   - 
+   - https://github.com/jagadeshwaranparthiban/RAG_CHATBOT
+   - query: rag chatbot
+36. **barathankavin/spotify-review-discovery-engine** ★0 `Python`
+   - AI-powered Spotify Play Store review discovery engine with Streamlit dashboard and RAG chatbot
+   - https://github.com/barathankavin/spotify-review-discovery-engine
+   - query: rag chatbot
+37. **euvel/DantaLion** ★0 `Python`
+   - A self-hosted, bilingual (Persian/English) RAG chatbot built to run entirely on CPU. 
+   - https://github.com/euvel/DantaLion
+   - query: rag chatbot
+38. **keerthishree20/rag-chatbot** ★0 `Jupyter Notebook`
+   - 
+   - https://github.com/keerthishree20/rag-chatbot
+   - query: rag chatbot
+39. **giddamansoorbasha/rag-chatbot-ui** ★0 `JavaScript`
+   - 
+   - https://github.com/giddamansoorbasha/rag-chatbot-ui
+   - query: rag chatbot
+40. **davidnsilvajr/postador-auto** ★0 `TypeScript`
+   - Social media automation platform - FastAPI + Next.js + Supabase + OpenRouter
+   - https://github.com/davidnsilvajr/postador-auto
+   - query: social media automation
+41. **Burgerham4R/ai-customer-service-skill** ★0 `Python`
+   - TRTC AI Custom Service Skill - code-free to build an AI Custom Service System
+   - https://github.com/Burgerham4R/ai-customer-service-skill
+   - query: ai customer service
+42. **burakaydinofficial/unity-editor-mcp** ★0 `C#`
+   - An MCP server and client for LLMs to interact with Unity Projects
+   - https://github.com/burakaydinofficial/unity-editor-mcp
+   - query: mcp server
+43. **pacmac/mesh-gw** ★0 `Python`
+   - A pure BLE-to-JSON bridge for Meshtastic radios. Connects to N radios simultaneously over BLE and exposes a unified JSON REST API, WebSocket event stream, MCP server, Meshtastic TCP gateway and BLE OTA updates..
+   - https://github.com/pacmac/mesh-gw
+   - query: mcp server
+44. **PostOakLabs/apexlogics-mcp-worker** ★0 `JavaScript`
+   - ApexLogics MCP Server — Cloudflare Worker
+   - https://github.com/PostOakLabs/apexlogics-mcp-worker
+   - query: mcp server
+45. **kabirrajsingh/mcp-server-auth-js** ★0 `JavaScript`
+   - 
+   - https://github.com/kabirrajsingh/mcp-server-auth-js
+   - query: mcp server
+46. **unbound-force/dewey** ★3 `Go`
+   - Knowledge graph MCP server for AI agents. 44 tools across Markdown vaults, semantic search, source code indexing, and persistent memory. Indexes local files, GitHub, web docs, and Go source code with local embeddings via
+   - https://github.com/unbound-force/dewey
+   - query: mcp server
+47. **giskard09/giskard-payments** ★0 `Solidity`
+   - Multi-network payments for Giskard MCP servers — Lightning (sats) + Arbitrum (USDC/ETH)
+   - https://github.com/giskard09/giskard-payments
+   - query: mcp server
+48. **giskard09/giskard-origin** ★0 `Python`
+   - Orientation for new agents. Free MCP server.
+   - https://github.com/giskard09/giskard-origin
+   - query: mcp server
+49. **kuaizhongqiang/mcp-agentlink** ★0 ``
+   - MCP server for cross-project, cross-agent communication — automate file path sharing, change notification, and context sync between AI coding agents in multi-repo workflows.
+   - https://github.com/kuaizhongqiang/mcp-agentlink
+   - query: mcp server
+50. **wildfirebill-unraid/unraid-mcp-servers-local** ★0 `Python`
+   - 
+   - https://github.com/wildfirebill-unraid/unraid-mcp-servers-local
+   - query: mcp server
+51. **jakebullet70/MCP-B4J** ★0 `Visual Basic .NET`
+   - MCP Server for B4J (Fork of MCP-B4A)
+   - https://github.com/jakebullet70/MCP-B4J
+   - query: mcp server
+52. **dtz-labs/zesarux-mcp** ★0 `TypeScript`
+   - MCP server for ZEsarUX ZX Spectrum emulator using ZRCP protocol
+   - https://github.com/dtz-labs/zesarux-mcp
+   - query: mcp server
+53. **IkarusMK/AIcortex** ★2 `Python`
+   - Self-hosted MCP server that turns your NAS into a persistent brain for Claude (or any LLM): memory, skills, tools, MQTT/FTP devices & an encrypted vault — desktop + mobile, secrets stay home.
+   - https://github.com/IkarusMK/AIcortex
+   - query: mcp server
+54. **Nimistu/nimistu-mcp** ★0 ``
+   - Free, no-API-key MCP server for the Estonian Business Register (Äriregister) — query companies, people, beneficial owners, trademarks and sectors over nimistu.ee open data.
+   - https://github.com/Nimistu/nimistu-mcp
+   - query: mcp server
+55. **AbdallahKhaldi/COSMOS77-ex06** ★0 `Python`
+   - UOH-RL07 HW6 — Cops & Robbers: dual AI agents over MCP servers (203.3763)
+   - https://github.com/AbdallahKhaldi/COSMOS77-ex06
+   - query: mcp server
+56. **hansmacau-png/kotlin-mcp-server** ★0 ``
+   - MCP server for Kotlin/Android development
+   - https://github.com/hansmacau-png/kotlin-mcp-server
+   - query: mcp server
+57. **goswamisaurabh1986/tata-nexon-chatbot** ★0 `Python`
+   - An Agentic CRAG (Corrective RAG) chatbot for Tata Nexon using LangGraph, FastAPI and React
+   - https://github.com/goswamisaurabh1986/tata-nexon-chatbot
+   - query: rag chatbot
+58. **khushiy05/rag-chatbot** ★0 ``
+   - 
+   - https://github.com/khushiy05/rag-chatbot
+   - query: rag chatbot
+59. **KhansaUsman/khansabot** ★0 `Python`
+   - KhansaBot — A personal RAG chatbot built with LangChain, FAISS, Groq, and Streamlit
+   - https://github.com/KhansaUsman/khansabot
+   - query: rag chatbot
+60. **sash1925/RAG-chatbot** ★0 ``
+   - A Retrieval-Augmented Generation (RAG) chatbot that answers questions from PDF documents using FastAPI, LangChain, ChromaDB, HuggingFace Embeddings, and Google Gemini.
+   - https://github.com/sash1925/RAG-chatbot
+   - query: rag chatbot
+61. **arush15june/cyber-sales-agent-skills** ★0 `Python`
+   - AI agent skills for cybersecurity sales — compliance mapping, regulatory intelligence, and sales automation
+   - https://github.com/arush15june/cyber-sales-agent-skills
+   - query: sales automation
+62. **Sai-Vardhan12/SecureSightAI-Security-Log-Analyzer** ★0 `TypeScript`
+   - Developed a multi-source AI-powered Security Analytics Platform using CICIDS2017 network traffic and HDFS system logs. Implemented XGBoost-based intrusion detection, Isolation Forest anomaly detection, explainable AI wit
+   - https://github.com/Sai-Vardhan12/SecureSightAI-Security-Log-Analyzer
+   - query: ai security
+63. **AbdulHaseeb790/multi-doc-rag-chatbot** ★0 `Python`
+   - 
+   - https://github.com/AbdulHaseeb790/multi-doc-rag-chatbot
+   - query: rag chatbot
+64. **Aishwarya-J05/ask-my-pdf** ★1 `Python`
+   - Production-grade RAG chatbot that answers questions from your PDFs with source citations built with FastAPI, React, FAISS + BM25 hybrid retrieval, and deployed on AWS EC2 with Docker.
+   - https://github.com/Aishwarya-J05/ask-my-pdf
+   - query: rag chatbot
+65. **ngbcgrdv5s-ux/jarvis-x-** ★0 ``
+   - AI Content Automation Assistant
+   - https://github.com/ngbcgrdv5s-ux/jarvis-x-
+   - query: content automation
+66. **curlycoderNidhi/AI-Security-System** ★0 `Python`
+   - 
+   - https://github.com/curlycoderNidhi/AI-Security-System
+   - query: ai security
+67. **MonojitVE/MultiRag_Chatbot** ★0 `JavaScript`
+   - 
+   - https://github.com/MonojitVE/MultiRag_Chatbot
+   - query: rag chatbot
+68. **ElFabrica/nextjs-rag-chatbot** ★0 `TypeScript`
+   - 
+   - https://github.com/ElFabrica/nextjs-rag-chatbot
+   - query: rag chatbot
+69. **Anu-gangwar/rag-chatbot-mindbrain** ★0 `HTML`
+   - 
+   - https://github.com/Anu-gangwar/rag-chatbot-mindbrain
+   - query: rag chatbot
+70. **mayank2295/RAG-Model** ★1 `HTML`
+   - News & Jobs RAG chatbot — live news + remote jobs embedded into Pinecone, answered via OpenRouter LLM with SSE streaming.
+   - https://github.com/mayank2295/RAG-Model
+   - query: rag chatbot
+71. **boomika107/RAG-Retrieval-Augmented-Generation-AI-Chatbot** ★0 `JavaScript`
+   - "The main objective of my RAG chatbot is to allow users to ask questions from uploaded documents and receive accurate, context-based answers by combining semantic search with a Large Language Model, instead of relying so
+   - https://github.com/boomika107/RAG-Retrieval-Augmented-Generation-AI-Chatbot
+   - query: rag chatbot
+72. **Zapier-Agency/.github** ★0 ``
+   - Zapier Agency delivers intelligent workflow automation for agencies managing multi-client Zapier operations. With Zapier Agency, streamline task routing, client billing, and integration monitoring.
+   - https://github.com/Zapier-Agency/.github
+   - query: zapier
+73. **Elijaf98/motheretreat-leads-automation** ★0 `JavaScript`
+   - Автоматизация лид-заявок Motheretreat: Google Forms -> Sheets -> Slack (Срочный -> @channel). Две версии: Zapier + Apps Script. Тестовое задание.
+   - https://github.com/Elijaf98/motheretreat-leads-automation
+   - query: zapier
+74. **byun-alex/content-factory** ★0 ``
+   - End-to-end AI content automation pipeline: Claude orchestrates Suno (via Composio MCP) + Higgsfield + FFmpeg with human approval gates.
+   - https://github.com/byun-alex/content-factory
+   - query: content automation
+75. **tarunkasukurty/Customer-Support-AI-Agent-Prompt-QA-Project** ★0 ``
+   - 
+   - https://github.com/tarunkasukurty/Customer-Support-AI-Agent-Prompt-QA-Project
+   - query: customer support ai
+76. **Ray648-h/ai-security** ★0 `HTML`
+   - 本地使用ai工具的攻防演示
+   - https://github.com/Ray648-h/ai-security
+   - query: ai security
+77. **solanabr/Auditor** ★25 ``
+   - Open-Source AI Security Audit Skill
+   - https://github.com/solanabr/Auditor
+   - query: ai security
+78. **Tbarber91/Ai-security-protocol** ★0 ``
+   - 
+   - https://github.com/Tbarber91/Ai-security-protocol
+   - query: ai security
+79. **Nopiskl/AI_SecurityRecorder** ★0 `C++`
+   - 
+   - https://github.com/Nopiskl/AI_SecurityRecorder
+   - query: ai security
+80. **ccd-lz/AI-Security-Journey** ★0 ``
+   - My learning journey in deep-learning, cybersecurity and side-channel analysis.
+   - https://github.com/ccd-lz/AI-Security-Journey
+   - query: ai security
+81. **Mcgray-eck/ai-security-cicids2017-lab** ★0 `Python`
+   - AI-based intrusion detection and forensic-style analysis using CICIDS2017.
+   - https://github.com/Mcgray-eck/ai-security-cicids2017-lab
+   - query: ai security
+82. **sharRahul/llm-vapt-framework** ★0 `Python`
+   - An AI security assessment framework designed to evaluate the robustness of LLM-powered applications and orchestration layers through automated adversarial testing, attack simulation, and risk-driven analysis.
+   - https://github.com/sharRahul/llm-vapt-framework
+   - query: ai security
+83. **vikashCoder94/iFLY-rag-chatbot** ★0 `Python`
+   - 
+   - https://github.com/vikashCoder94/iFLY-rag-chatbot
+   - query: rag chatbot
+84. **Adityabhatt1002/Agentic-Rag-chatbot** ★0 `Python`
+   - 
+   - https://github.com/Adityabhatt1002/Agentic-Rag-chatbot
+   - query: rag chatbot
+85. **farhankhoso/youtube-rag-chatbot** ★0 `Python`
+   - Streamlit web app that lets you chat with any YouTube video. Paste a video URL, and the app automatically extracts the transcript, builds a retrieval-augmented generation (RAG) pipeline, and lets you ask questions about 
+   - https://github.com/farhankhoso/youtube-rag-chatbot
+   - query: rag chatbot
+86. **hawi088/rag-chatbot** ★0 `Jupyter Notebook`
+   - 
+   - https://github.com/hawi088/rag-chatbot
+   - query: rag chatbot
+87. **takshil-khurana/marketing-growth-automation** ★0 `HTML`
+   - A modern marketing agency website featuring responsive design, Zapier AI chatbot, Google Forms lead capture, and automated Mango CRM integration.
+   - https://github.com/takshil-khurana/marketing-growth-automation
+   - query: zapier
+88. **nihahacodes/RAG-CHATBOT** ★0 `Jupyter Notebook`
+   - 
+   - https://github.com/nihahacodes/RAG-CHATBOT
+   - query: rag chatbot
+89. **MustafaSubhani/FinAI_V2** ★0 `Python`
+   - An Updated Version of my Finance Related Rag Chatbot (FinAI) Built with Langchain and crawl4Ai 
+   - https://github.com/MustafaSubhani/FinAI_V2
+   - query: rag chatbot
+90. **Savan305/PDF-RAG-chatbot** ★0 `Python`
+   - 
+   - https://github.com/Savan305/PDF-RAG-chatbot
+   - query: rag chatbot
+91. **Saniya-khan-k/pdc-rag-chatbot** ★0 ``
+   - 
+   - https://github.com/Saniya-khan-k/pdc-rag-chatbot
+   - query: rag chatbot
+92. **intiyaz786/SkillNexis4.0** ★0 `Python`
+   - Python Email Automation Tool using CSV and smtplib for automated personalized email generation.
+   - https://github.com/intiyaz786/SkillNexis4.0
+   - query: email automation
+93. **shanvi2001/shopify-email-automation** ★0 `JavaScript`
+   - Pipedream automation for processing Shopify orders and sending customer emails.
+   - https://github.com/shanvi2001/shopify-email-automation
+   - query: email automation
+94. **coder070296/MultiDoc_Rag_Chatbot** ★0 `Python`
+   - 
+   - https://github.com/coder070296/MultiDoc_Rag_Chatbot
+   - query: rag chatbot
+95. **AliRaza-Dev678/IUB-RAG-CHATBOT** ★0 `Jupyter Notebook`
+   - RAG chatbot answering IUB student questions on admissions & faculties. Uses LangChain + PGVector + Llama 3.1 8B (Groq) with a Streamlit UI. Answers are grounded strictly in official IUB PDFs with source citations.
+   - https://github.com/AliRaza-Dev678/IUB-RAG-CHATBOT
+   - query: rag chatbot
+96. **muhib01793/RAG-Chatbot** ★0 ``
+   - A smart chatbot that uses Retrieval-Augmented Generation (RAG) to answer questions from uploaded documents using LangChain and Gemini AI.
+   - https://github.com/muhib01793/RAG-Chatbot
+   - query: rag chatbot
+97. **SACHIN0280/Scapia_Rag_chatbot** ★0 `Python`
+   - 
+   - https://github.com/SACHIN0280/Scapia_Rag_chatbot
+   - query: rag chatbot
+98. **tcbtjaivikkishan/RAG_CHATBOT** ★0 ``
+   - 
+   - https://github.com/tcbtjaivikkishan/RAG_CHATBOT
+   - query: rag chatbot
+99. **harshitsharma200377-spec/Multi-PDF_RAG_Chatbot** ★0 `Python`
+   - 
+   - https://github.com/harshitsharma200377-spec/Multi-PDF_RAG_Chatbot
+   - query: rag chatbot
+100. **karinSalazar/diabetes-rag-assistant** ★0 ``
+   - Clinical RAG chatbot for diabetes mellitus · Ollama · ChromaDB · FastAPI · Streamlit · MLflow · Docker · RGPD-compliant
+   - https://github.com/karinSalazar/diabetes-rag-assistant
+   - query: rag chatbot
